@@ -1,0 +1,501 @@
+id,keyword,location,text,target
+501,,,Sunny weather perfect for a picnic.,0
+502,,,Enjoying the beautiful spring weather.,0
+503,,,Snowfall accumulation expected to continue overnight.,1
+504,,,Heavy rain causing street flooding.,1
+505,,,Earthquake aftershocks continue to be felt.,1
+506,,,Sunny skies and warm temperatures expected.,0
+507,,,Fall foliage tour scheduled for next weekend.,0
+508,,,Winter weather advisory issued for the region.,1
+509,,,Flash flooding reported in low-lying areas.,1
+510,,,Thunderstorm activity expected to increase later today.,1
+511,,,Snow flurries observed in the morning.,1
+512,,,Clear skies and mild temperatures forecasted.,0
+513,,,Enjoying a hike in the mountains.,0
+514,,,Heatwave warning issued for the city.,1
+515,,,Smoke from nearby wildfires visible in the sky.,1
+516,,,Heavy rain causing traffic delays.,1
+517,,,Minor earthquake tremors felt in the region.,1
+518,,,Sunny weather perfect for outdoor events.,0
+519,,,Enjoying a walk in the park.,0
+520,,,Winter weather advisory in effect.,1
+521,,,Flash flood watch issued for the region.,1
+522,,,Sunny skies and warm temperatures expected.,0
+523,,,Fall foliage at its peak.,0
+524,,,Snowstorm warning upgraded to blizzard warning.,1
+525,,,Mudslide reported on the highway.,1
+526,,,Thunderstorms expected to develop this afternoon.,1
+527,,,Snow accumulation expected overnight.,1
+528,,,Clear skies and mild temperatures forecasted.,0
+529,,,Enjoying a day at the lake with family.,0
+530,,,Heatwave causing record-breaking temperatures.,1
+531,,,Smoke from distant wildfires drifting into the city.,1
+532,,,Heavy rainfall causing localized flooding.,1
+533,,,Minor earthquake reported in the area.,1
+534,,,Sunny weather perfect for outdoor activities.,0
+535,,,Autumn leaves falling gracefully from the trees.,0
+536,,,Snowfall expected to intensify overnight.,1
+537,,,Rockslide reported on the mountain pass.,1
+538,,,Thunderstorm warning issued for the evening.,1
+539,,,Sunny skies and cool temperatures forecasted.,0
+540,,,Enjoying a bike ride through the countryside.,0
+541,,,Winter storm warning upgraded to blizzard warning.,1
+542,,,Flash flood warning issued for the county.,1
+543,,,Sunny weather perfect for a picnic.,0
+544,,,Enjoying the beautiful spring weather.,0
+545,,,Snowfall accumulation expected to continue overnight.,1
+546,,,Heavy rain causing street flooding.,1
+547,,,Earthquake aftershocks continue to be felt.,1
+548,,,Sunny skies and warm temperatures expected.,0
+549,,,Fall foliage tour scheduled for next weekend.,0
+550,,,Winter weather advisory issued for the region.,1
+551,,,Flash flooding reported in low-lying areas.,1
+552,,,Thunderstorm activity expected to increase later today.,1
+553,,,Snow flurries observed in the morning.,1
+554,,,Clear skies and mild temperatures forecasted.,0
+555,,,Enjoying a hike in the mountains.,0
+556,,,Heatwave warning issued for the city.,1
+557,,,Smoke from nearby wildfires visible in the sky.,1
+558,,,Heavy rain causing traffic delays.,1
+559,,,Minor earthquake tremors felt in the region.,1
+560,,,Sunny weather perfect for outdoor events.,0
+561,,,Enjoying a walk in the park.,0
+562,,,Winter weather advisory in effect.,1
+563,,,Flash flood watch issued for the region.,1
+564,,,Sunny skies and warm temperatures expected.,0
+565,,,Fall foliage at its peak.,0
+566,,,Snowstorm warning upgraded to blizzard warning.,1
+567,,,Mudslide reported on the highway.,1
+568,,,Thunderstorms expected to develop this afternoon.,1
+569,,,Snow accumulation expected overnight.,1
+570,,,Clear skies and mild temperatures forecasted.,0
+571,,,Enjoying a day at the lake with family.,0
+572,,,Heatwave causing record-breaking temperatures.,1
+573,,,Smoke from distant wildfires drifting into the city.,1
+574,,,Heavy rainfall causing localized flooding.,1
+575,,,Minor earthquake reported in the area.,1
+576,,,Sunny weather perfect for outdoor activities.,0
+577,,,Autumn leaves falling gracefully from the trees.,0
+578,,,Snowfall expected to intensify overnight.,1
+579,,,Rockslide reported on the mountain pass.,1
+580,,,Thunderstorm warning issued for the evening.,1
+581,,,Sunny skies and cool temperatures forecasted.,0
+582,,,Enjoying a bike ride through the countryside.,0
+583,,,Winter storm warning upgraded to blizzard warning.,1
+584,,,Flash flood warning issued for the county.,1
+585,,,Sunny weather perfect for a picnic.,0
+586,,,Enjoying the beautiful spring weather.,0
+587,,,Snowfall accumulation expected to continue overnight.,1
+588,,,Heavy rain causing street flooding.,1
+589,,,Earthquake aftershocks continue to be felt.,1
+590,,,Sunny skies and warm temperatures expected.,0
+591,,,Fall foliage tour scheduled for next weekend.,0
+592,,,Winter weather advisory issued for the region.,1
+593,,,Flash flooding reported in low-lying areas.,1
+594,,,Thunderstorm activity expected to increase later today.,1
+595,,,Snow flurries observed in the morning.,1
+596,,,Clear skies and mild temperatures forecasted.,0
+597,,,Enjoying a hike in the mountains.,0
+598,,,Heatwave warning issued for the city.,1
+599,,,Smoke from nearby wildfires visible in the sky.,1
+600,,,Heavy rain causing traffic delays.,1
+601,,,Minor earthquake tremors felt in the region.,1
+602,,,Sunny weather perfect for outdoor events.,0
+603,,,Enjoying a walk in the park.,0
+604,,,Winter weather advisory in effect.,1
+605,,,Flash flood watch issued for the region.,1
+606,,,Sunny skies and warm temperatures expected.,0
+607,,,Fall foliage at its peak.,0
+608,,,Snowstorm warning upgraded to blizzard warning.,1
+609,,,Mudslide reported on the highway.,1
+610,,,Thunderstorms expected to develop this afternoon.,1
+611,,,Snow accumulation expected overnight.,1
+612,,,Clear skies and mild temperatures forecasted.,0
+613,,,Enjoying a day at the lake with family.,0
+614,,,Heatwave causing record-breaking temperatures.,1
+615,,,Smoke from distant wildfires drifting into the city.,1
+616,,,Heavy rainfall causing localized flooding.,1
+617,,,Minor earthquake reported in the area.,1
+618,,,Sunny weather perfect for outdoor activities.,0
+619,,,Autumn leaves falling gracefully from the trees.,0
+620,,,Snowfall expected to intensify overnight.,1
+621,,,Rockslide reported on the mountain pass.,1
+622,,,Thunderstorm warning issued for the evening.,1
+623,,,Sunny skies and cool temperatures forecasted.,0
+624,,,Enjoying a bike ride through the countryside.,0
+625,,,Winter storm warning upgraded to blizzard warning.,1
+626,,,Flash flood warning issued for the county.,1
+627,,,Sunny weather perfect for a picnic.,0
+628,,,Enjoying the beautiful spring weather.,0
+629,,,Snowfall accumulation expected to continue overnight.,1
+630,,,Heavy rain causing street flooding.,1
+631,,,Earthquake aftershocks continue to be felt.,1
+632,,,Sunny skies and warm temperatures expected.,0
+633,,,Fall foliage tour scheduled for next weekend.,0
+634,,,Winter weather advisory issued for the region.,1
+635,,,Flash flooding reported in low-lying areas.,1
+636,,,Thunderstorm activity expected to increase later today.,1
+637,,,Snow flurries observed in the morning.,1
+638,,,Clear skies and mild temperatures forecasted.,0
+639,,,Enjoying a hike in the mountains.,0
+640,,,Heatwave warning issued for the city.,1
+641,,,Smoke from nearby wildfires visible in the sky.,1
+642,,,Heavy rain causing traffic delays.,1
+643,,,Minor earthquake tremors felt in the region.,1
+644,,,Sunny weather perfect for outdoor events.,0
+645,,,Enjoying a walk in the park.,0
+646,,,Winter weather advisory in effect.,1
+647,,,Flash flood watch issued for the region.,1
+648,,,Sunny skies and warm temperatures expected.,0
+649,,,Fall foliage at its peak.,0
+650,,,Snowstorm warning upgraded to blizzard warning.,1
+651,,,Mudslide reported on the highway.,1
+652,,,Thunderstorms expected to develop this afternoon.,1
+653,,,Snow accumulation expected overnight.,1
+654,,,Clear skies and mild temperatures forecasted.,0
+655,,,Enjoying a day at the lake with family.,0
+656,,,Heatwave causing record-breaking temperatures.,1
+657,,,Smoke from distant wildfires drifting into the city.,1
+658,,,Heavy rainfall causing localized flooding.,1
+659,,,Minor earthquake reported in the area.,1
+660,,,Sunny weather perfect for outdoor activities.,0
+661,,,Autumn leaves falling gracefully from the trees.,0
+662,,,Snowfall expected to intensify overnight.,1
+663,,,Rockslide reported on the mountain pass.,1
+664,,,Thunderstorm warning issued for the evening.,1
+665,,,Sunny skies and cool temperatures forecasted.,0
+666,,,Enjoying a bike ride through the countryside.,0
+667,,,Winter storm warning upgraded to blizzard warning.,1
+668,,,Flash flood warning issued for the county.,1
+669,,,Sunny weather perfect for a picnic.,0
+670,,,Enjoying the beautiful spring weather.,0
+671,,,Snowfall accumulation expected to continue overnight.,1
+672,,,Heavy rain causing street flooding.,1
+673,,,Earthquake aftershocks continue to be felt.,1
+674,,,Sunny skies and warm temperatures expected.,0
+675,,,Fall foliage tour scheduled for next weekend.,0
+676,,,Winter weather advisory issued for the region.,1
+677,,,Flash flooding reported in low-lying areas.,1
+678,,,Thunderstorm activity expected to increase later today.,1
+679,,,Snow flurries observed in the morning.,1
+680,,,Clear skies and mild temperatures forecasted.,0
+681,,,Enjoying a hike in the mountains.,0
+682,,,Heatwave warning issued for the city.,1
+683,,,Smoke from nearby wildfires visible in the sky.,1
+684,,,Heavy rain causing traffic delays.,1
+685,,,Minor earthquake tremors felt in the region.,1
+686,,,Sunny weather perfect for outdoor events.,0
+687,,,Enjoying a walk in the park.,0
+688,,,Winter weather advisory in effect.,1
+689,,,Flash flood watch issued for the region.,1
+690,,,Sunny skies and warm temperatures expected.,0
+691,,,Fall foliage at its peak.,0
+692,,,Snowstorm warning upgraded to blizzard warning.,1
+693,,,Mudslide reported on the highway.,1
+694,,,Thunderstorms expected to develop this afternoon.,1
+695,,,Snow accumulation expected overnight.,1
+696,,,Clear skies and mild temperatures forecasted.,0
+697,,,Enjoying a day at the lake with family.,0
+698,,,Heatwave causing record-breaking temperatures.,1
+699,,,Smoke from distant wildfires drifting into the city.,1
+700,,,Heavy rainfall causing localized flooding.,1
+701,,,Minor earthquake reported in the area.,1
+702,,,Sunny weather perfect for outdoor activities.,0
+703,,,Autumn leaves falling gracefully from the trees.,0
+704,,,Snowfall expected to intensify overnight.,1
+705,,,Rockslide reported on the mountain pass.,1
+706,,,Thunderstorm warning issued for the evening.,1
+707,,,Sunny skies and cool temperatures forecasted.,0
+708,,,Enjoying a bike ride through the countryside.,0
+709,,,Winter storm warning upgraded to blizzard warning.,1
+710,,,Flash flood warning issued for the county.,1
+711,,,Sunny weather perfect for a picnic.,0
+712,,,Enjoying the beautiful spring weather.,0
+713,,,Snowfall accumulation expected to continue overnight.,1
+714,,,Heavy rain causing street flooding.,1
+715,,,Earthquake aftershocks continue to be felt.,1
+716,,,Sunny skies and warm temperatures expected.,0
+717,,,Fall foliage tour scheduled for next weekend.,0
+718,,,Winter weather advisory issued for the region.,1
+719,,,Flash flooding reported in low-lying areas.,1
+720,,,Thunderstorm activity expected to increase later today.,1
+721,,,Snow flurries observed in the morning.,1
+722,,,Clear skies and mild temperatures forecasted.,0
+723,,,Enjoying a hike in the mountains.,0
+724,,,Heatwave warning issued for the city.,1
+725,,,Smoke from nearby wildfires visible in the sky.,1
+726,,,Heavy rain causing traffic delays.,1
+727,,,Minor earthquake tremors felt in the region.,1
+728,,,Sunny weather perfect for outdoor events.,0
+729,,,Enjoying a walk in the park.,0
+730,,,Winter weather advisory in effect.,1
+731,,,Flash flood watch issued for the region.,1
+732,,,Sunny skies and warm temperatures expected.,0
+733,,,Fall foliage at its peak.,0
+734,,,Snowstorm warning upgraded to blizzard warning.,1
+735,,,Mudslide reported on the highway.,1
+736,,,Thunderstorms expected to develop this afternoon.,1
+737,,,Snow accumulation expected overnight.,1
+738,,,Clear skies and mild temperatures forecasted.,0
+739,,,Enjoying a day at the lake with family.,0
+740,,,Heatwave causing record-breaking temperatures.,1
+741,,,Smoke from distant wildfires drifting into the city.,1
+742,,,Heavy rainfall causing localized flooding.,1
+743,,,Minor earthquake reported in the area.,1
+744,,,Sunny weather perfect for outdoor activities.,0
+745,,,Autumn leaves falling gracefully from the trees.,0
+746,,,Snowfall expected to intensify overnight.,1
+747,,,Rockslide reported on the mountain pass.,1
+748,,,Thunderstorm warning issued for the evening.,1
+749,,,Sunny skies and cool temperatures forecasted.,0
+750,,,Enjoying a bike ride through the countryside.,0
+751,,,Winter storm warning upgraded to blizzard warning.,1
+752,,,Flash flood warning issued for the county.,1
+753,,,Sunny weather perfect for a picnic.,0
+754,,,Enjoying the beautiful spring weather.,0
+755,,,Snowfall accumulation expected to continue overnight.,1
+756,,,Heavy rain causing street flooding.,1
+757,,,Earthquake aftershocks continue to be felt.,1
+758,,,Sunny skies and warm temperatures expected.,0
+759,,,Fall foliage tour scheduled for next weekend.,0
+760,,,Winter weather advisory issued for the region.,1
+761,,,Flash flooding reported in low-lying areas.,1
+762,,,Thunderstorm activity expected to increase later today.,1
+763,,,Snow flurries observed in the morning.,1
+764,,,Clear skies and mild temperatures forecasted.,0
+765,,,Enjoying a hike in the mountains.,0
+766,,,Heatwave warning issued for the city.,1
+767,,,Smoke from nearby wildfires visible in the sky.,1
+768,,,Heavy rain causing traffic delays.,1
+769,,,Minor earthquake tremors felt in the region.,1
+770,,,Sunny weather perfect for outdoor events.,0
+771,,,Enjoying a walk in the park.,0
+772,,,Winter weather advisory in effect.,1
+773,,,Flash flood watch issued for the region.,1
+774,,,Sunny skies and warm temperatures expected.,0
+775,,,Fall foliage at its peak.,0
+776,,,Snowstorm warning upgraded to blizzard warning.,1
+777,,,Mudslide reported on the highway.,1
+778,,,Thunderstorms expected to develop this afternoon.,1
+779,,,Snow accumulation expected overnight.,1
+780,,,Clear skies and mild temperatures forecasted.,0
+781,,,Enjoying a day at the lake with family.,0
+782,,,Heatwave causing record-breaking temperatures.,1
+783,,,Smoke from distant wildfires drifting into the city.,1
+784,,,Heavy rainfall causing localized flooding.,1
+785,,,Minor earthquake reported in the area.,1
+786,,,Sunny weather perfect for outdoor activities.,0
+787,,,Autumn leaves falling gracefully from the trees.,0
+788,,,Snowfall expected to intensify overnight.,1
+789,,,Rockslide reported on the mountain pass.,1
+790,,,Thunderstorm warning issued for the evening.,1
+791,,,Sunny skies and cool temperatures forecasted.,0
+792,,,Enjoying a bike ride through the countryside.,0
+793,,,Winter storm warning upgraded to blizzard warning.,1
+794,,,Flash flood warning issued for the county.,1
+795,,,Sunny weather perfect for a picnic.,0
+796,,,Enjoying the beautiful spring weather.,0
+797,,,Snowfall accumulation expected to continue overnight.,1
+798,,,Heavy rain causing street flooding.,1
+799,,,Earthquake aftershocks continue to be felt.,1
+800,,,Sunny skies and warm temperatures expected.,0
+801,,,Fall foliage tour scheduled for next weekend.,0
+802,,,Winter weather advisory issued for the region.,1
+803,,,Flash flooding reported in low-lying areas.,1
+804,,,Thunderstorm activity expected to increase later today.,1
+805,,,Snow flurries observed in the morning.,1
+806,,,Clear skies and mild temperatures forecasted.,0
+807,,,Enjoying a hike in the mountains.,0
+808,,,Heatwave warning issued for the city.,1
+809,,,Smoke from nearby wildfires visible in the sky.,1
+810,,,Heavy rain causing traffic delays.,1
+811,,,Minor earthquake tremors felt in the region.,1
+812,,,Sunny weather perfect for outdoor events.,0
+813,,,Enjoying a walk in the park.,0
+814,,,Winter weather advisory in effect.,1
+815,,,Flash flood watch issued for the region.,1
+816,,,Sunny skies and warm temperatures expected.,0
+817,,,Fall foliage at its peak.,0
+818,,,Snowstorm warning upgraded to blizzard warning.,1
+819,,,Mudslide reported on the highway.,1
+820,,,Thunderstorms expected to develop this afternoon.,1
+821,,,Snow accumulation expected overnight.,1
+822,,,Clear skies and mild temperatures forecasted.,0
+823,,,Enjoying a day at the lake with family.,0
+824,,,Heatwave causing record-breaking temperatures.,1
+825,,,Smoke from distant wildfires drifting into the city.,1
+826,,,Heavy rainfall causing localized flooding.,1
+827,,,Minor earthquake reported in the area.,1
+828,,,Sunny weather perfect for outdoor activities.,0
+829,,,Autumn leaves falling gracefully from the trees.,0
+830,,,Snowfall expected to intensify overnight.,1
+831,,,Rockslide reported on the mountain pass.,1
+832,,,Thunderstorm warning issued for the evening.,1
+833,,,Sunny skies and cool temperatures forecasted.,0
+834,,,Enjoying a bike ride through the countryside.,0
+835,,,Winter storm warning upgraded to blizzard warning.,1
+836,,,Flash flood warning issued for the county.,1
+837,,,Sunny weather perfect for a picnic.,0
+838,,,Enjoying the beautiful spring weather.,0
+839,,,Snowfall accumulation expected to continue overnight.,1
+840,,,Heavy rain causing street flooding.,1
+841,,,Earthquake aftershocks continue to be felt.,1
+842,,,Sunny skies and warm temperatures expected.,0
+843,,,Fall foliage tour scheduled for next weekend.,0
+844,,,Winter weather advisory issued for the region.,1
+845,,,Flash flooding reported in low-lying areas.,1
+846,,,Thunderstorm activity expected to increase later today.,1
+847,,,Snow flurries observed in the morning.,1
+848,,,Clear skies and mild temperatures forecasted.,0
+849,,,Enjoying a hike in the mountains.,0
+850,,,Heatwave warning issued for the city.,1
+851,,,Smoke from nearby wildfires visible in the sky.,1
+852,,,Heavy rain causing traffic delays.,1
+853,,,Minor earthquake tremors felt in the region.,1
+854,,,Sunny weather perfect for outdoor events.,0
+855,,,Enjoying a walk in the park.,0
+856,,,Winter weather advisory in effect.,1
+857,,,Flash flood watch issued for the region.,1
+858,,,Sunny skies and warm temperatures expected.,0
+859,,,Fall foliage at its peak.,0
+860,,,Snowstorm warning upgraded to blizzard warning.,1
+861,,,Mudslide reported on the highway.,1
+862,,,Thunderstorms expected to develop this afternoon.,1
+863,,,Snow accumulation expected overnight.,1
+864,,,Clear skies and mild temperatures forecasted.,0
+865,,,Enjoying a day at the lake with family.,0
+866,,,Heatwave causing record-breaking temperatures.,1
+867,,,Smoke from distant wildfires drifting into the city.,1
+868,,,Heavy rainfall causing localized flooding.,1
+869,,,Minor earthquake reported in the area.,1
+870,,,Sunny weather perfect for outdoor activities.,0
+871,,,Autumn leaves falling gracefully from the trees.,0
+872,,,Snowfall expected to intensify overnight.,1
+873,,,Rockslide reported on the mountain pass.,1
+874,,,Thunderstorm warning issued for the evening.,1
+875,,,Sunny skies and cool temperatures forecasted.,0
+876,,,Enjoying a bike ride through the countryside.,0
+877,,,Winter storm warning upgraded to blizzard warning.,1
+878,,,Flash flood warning issued for the county.,1
+879,,,Sunny weather perfect for a picnic.,0
+880,,,Enjoying the beautiful spring weather.,0
+881,,,Snowfall accumulation expected to continue overnight.,1
+882,,,Heavy rain causing street flooding.,1
+883,,,Earthquake aftershocks continue to be felt.,1
+884,,,Sunny skies and warm temperatures expected.,0
+885,,,Fall foliage tour scheduled for next weekend.,0
+886,,,Winter weather advisory issued for the region.,1
+887,,,Flash flooding reported in low-lying areas.,1
+888,,,Thunderstorm activity expected to increase later today.,1
+889,,,Snow flurries observed in the morning.,1
+890,,,Clear skies and mild temperatures forecasted.,0
+891,,,Enjoying a hike in the mountains.,0
+892,,,Heatwave warning issued for the city.,1
+893,,,Smoke from nearby wildfires visible in the sky.,1
+894,,,Heavy rain causing traffic delays.,1
+895,,,Minor earthquake tremors felt in the region.,1
+896,,,Sunny weather perfect for outdoor events.,0
+897,,,Enjoying a walk in the park.,0
+898,,,Winter weather advisory in effect.,1
+899,,,Flash flood watch issued for the region.,1
+900,,,Sunny skies and warm temperatures expected.,0
+901,,,Fall foliage at its peak.,0
+902,,,Snowstorm warning upgraded to blizzard warning.,1
+903,,,Mudslide reported on the highway.,1
+904,,,Thunderstorms expected to develop this afternoon.,1
+905,,,Snow accumulation expected overnight.,1
+906,,,Clear skies and mild temperatures forecasted.,0
+907,,,Enjoying a day at the lake with family.,0
+908,,,Heatwave causing record-breaking temperatures.,1
+909,,,Smoke from distant wildfires drifting into the city.,1
+910,,,Heavy rainfall causing localized flooding.,1
+911,,,Minor earthquake reported in the area.,1
+912,,,Sunny weather perfect for outdoor activities.,0
+913,,,Autumn leaves falling gracefully from the trees.,0
+914,,,Snowfall expected to intensify overnight.,1
+915,,,Rockslide reported on the mountain pass.,1
+916,,,Thunderstorm warning issued for the evening.,1
+917,,,Sunny skies and cool temperatures forecasted.,0
+918,,,Enjoying a bike ride through the countryside.,0
+919,,,Winter storm warning upgraded to blizzard warning.,1
+920,,,Flash flood warning issued for the county.,1
+921,,,Sunny weather perfect for a picnic.,0
+922,,,Enjoying the beautiful spring weather.,0
+923,,,Snowfall accumulation expected to continue overnight.,1
+924,,,Heavy rain causing street flooding.,1
+925,,,Earthquake aftershocks continue to be felt.,1
+926,,,Sunny skies and warm temperatures expected.,0
+927,,,Fall foliage tour scheduled for next weekend.,0
+928,,,Winter weather advisory issued for the region.,1
+929,,,Flash flooding reported in low-lying areas.,1
+930,,,Thunderstorm activity expected to increase later today.,1
+931,,,Snow flurries observed in the morning.,1
+932,,,Clear skies and mild temperatures forecasted.,0
+933,,,Enjoying a hike in the mountains.,0
+934,,,Heatwave warning issued for the city.,1
+935,,,Smoke from nearby wildfires visible in the sky.,1
+936,,,Heavy rain causing traffic delays.,1
+937,,,Minor earthquake tremors felt in the region.,1
+938,,,Sunny weather perfect for outdoor events.,0
+939,,,Enjoying a walk in the park.,0
+940,,,Winter weather advisory in effect.,1
+941,,,Flash flood watch issued for the region.,1
+942,,,Sunny skies and warm temperatures expected.,0
+943,,,Fall foliage at its peak.,0
+944,,,Snowstorm warning upgraded to blizzard warning.,1
+945,,,Mudslide reported on the highway.,1
+946,,,Thunderstorms expected to develop this afternoon.,1
+947,,,Snow accumulation expected overnight.,1
+948,,,Clear skies and mild temperatures forecasted.,0
+949,,,Enjoying a day at the lake with family.,0
+950,,,Heatwave causing record-breaking temperatures.,1
+951,,,Smoke from distant wildfires drifting into the city.,1
+952,,,Heavy rainfall causing localized flooding.,1
+953,,,Minor earthquake reported in the area.,1
+954,,,Sunny weather perfect for outdoor activities.,0
+955,,,Autumn leaves falling gracefully from the trees.,0
+956,,,Snowfall expected to intensify overnight.,1
+957,,,Rockslide reported on the mountain pass.,1
+958,,,Thunderstorm warning issued for the evening.,1
+959,,,Sunny skies and cool temperatures forecasted.,0
+960,,,Enjoying a bike ride through the countryside.,0
+961,,,Winter storm warning upgraded to blizzard warning.,1
+962,,,Flash flood warning issued for the county.,1
+963,,,Sunny weather perfect for a picnic.,0
+964,,,Enjoying the beautiful spring weather.,0
+965,,,Snowfall accumulation expected to continue overnight.,1
+966,,,Heavy rain causing street flooding.,1
+967,,,Earthquake aftershocks continue to be felt.,1
+968,,,Sunny skies and warm temperatures expected.,0
+969,,,Fall foliage tour scheduled for next weekend.,0
+970,,,Winter weather advisory issued for the region.,1
+971,,,Flash flooding reported in low-lying areas.,1
+972,,,Thunderstorm activity expected to increase later today.,1
+973,,,Snow flurries observed in the morning.,1
+974,,,Clear skies and mild temperatures forecasted.,0
+975,,,Enjoying a hike in the mountains.,0
+976,,,Heatwave warning issued for the city.,1
+977,,,Smoke from nearby wildfires visible in the sky.,1
+978,,,Heavy rain causing traffic delays.,1
+979,,,Minor earthquake tremors felt in the region.,1
+980,,,Sunny weather perfect for outdoor events.,0
+981,,,Enjoying a walk in the park.,0
+982,,,Winter weather advisory in effect.,1
+983,,,Flash flood watch issued for the region.,1
+984,,,Sunny skies and warm temperatures expected.,0
+985,,,Fall foliage at its peak.,0
+986,,,Snowstorm warning upgraded to blizzard warning.,1
+987,,,Mudslide reported on the highway.,1
+988,,,Thunderstorms expected to develop this afternoon.,1
+989,,,Snow accumulation expected overnight.,1
+990,,,Clear skies and mild temperatures forecasted.,0
+991,,,Enjoying a day at the lake with family.,0
+992,,,Heatwave causing record-breaking temperatures.,1
+993,,,Smoke from distant wildfires drifting into the city.,1
+994,,,Heavy rainfall causing localized flooding.,1
+995,,,Minor earthquake reported in the area.,1
+996,,,Sunny weather perfect for outdoor activities.,0
+997,,,Autumn leaves falling gracefully from the trees.,0
+998,,,Snowfall expected to intensify overnight.,1
+999,,,Rockslide reported on the mountain pass.,1
+1000,,,Thunderstorm warning issued for the evening.,1

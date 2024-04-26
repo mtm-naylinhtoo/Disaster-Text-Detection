@@ -1,0 +1,1039 @@
+id,keyword,location,text,target
+1,,,A massive earthquake struck the city overnight.,1
+2,,,A wildfire broke out in the forest near our town.,1
+3,,,Residents are being evacuated due to flooding.,1
+4,,,Tornado warning issued for our area.,1
+5,,,Heatwave alert! Temperatures soaring above 100°F.,1
+6,,,No significant weather events reported today.,0
+7,,,Excited for the upcoming vacation!,0
+8,,,Enjoying the beautiful autumn weather.,0
+9,,,Snowfall expected tomorrow morning.,0
+10,,,Planning a beach trip this weekend.,0
+11,,,Heavy rainfall caused minor flooding in some areas.,1
+13,,,High winds causing power outages in the region.,1
+14,,,Minor earthquake tremors felt in the city.,1
+15,,,Thunderstorm warning in effect.,1
+16,,,Sunny skies and warm temperatures forecasted.,0
+17,,,Autumn foliage at its peak.,0
+18,,,Snowstorm expected to hit tonight.,1
+19,,,Landslide reported on the outskirts of town.,1
+20,,,Tornado watch issued for the county.,1
+21,,,Planning a picnic in the park.,0
+22,,,Looking forward to the spring festival.,0
+23,,,Enjoying a cozy night by the fireplace.,0
+24,,,Garden blooming with flowers.,0
+25,,,Preparing for a camping trip next weekend.,0
+26,,,Thunder and lightning observed in the evening.,1
+28,,,Flash flood warning in effect.,1
+29,,,Earthquake drill conducted at local schools.,1
+30,,,Sunny weather perfect for outdoor activities.,0
+31,,,Hiking trip planned for the weekend.,0
+32,,,Enjoying a day at the beach with friends.,0
+33,,,Tornado touchdown reported in nearby town.,1
+34,,,Heavy rain causing localized flooding.,1
+35,,,Severe thunderstorm warning issued.,1
+36,,,Snowfall accumulation expected overnight.,1
+37,,,Warm temperatures expected for the weekend.,0
+38,,,Fall foliage tour scheduled for next week.,0
+39,,,Snowplows dispatched to clear roads after snowstorm.,1
+40,,,Landslide warning issued for mountainous regions.,1
+41,,,Gusty winds causing minor damage in some areas.,1
+42,,,Earthquake aftershocks felt throughout the region.,1
+43,,,Sunny skies and mild temperatures forecasted.,0
+44,,,Enjoying the changing colors of the leaves.,0
+45,,,Winter storm warning in effect for the region.,1
+46,,,Flash flooding reported in low-lying areas.,1
+47,,,Thunderstorm activity expected later today.,1
+48,,,Snow flurries observed in the morning.,1
+49,,,Clear skies and cool temperatures forecasted.,0
+50,,,Planning a ski trip for the holidays.,0
+51,,,Heatwave warning issued for the city.,1
+52,,,Smoke from nearby wildfires visible in the sky.,1
+53,,,Heavy rain causing traffic delays.,1
+54,,,Minor earthquake tremors felt in the region.,1
+55,,,Sunny weather perfect for outdoor events.,0
+56,,,Enjoying a walk in the park.,0
+57,,,Winter weather advisory in effect.,1
+58,,,Flash flood watch issued for the region.,1
+59,,,Sunny skies and warm temperatures expected.,0
+60,,,Fall foliage at its peak.,0
+61,,,Snowstorm warning upgraded to blizzard warning.,1
+62,,,Mudslide reported on the highway.,1
+63,,,Thunderstorms expected to develop this afternoon.,1
+64,,,Snow accumulation expected overnight.,1
+65,,,Clear skies and mild temperatures forecasted.,0
+66,,,Enjoying a day at the lake with family.,0
+67,,,Heatwave causing record-breaking temperatures.,1
+68,,,Smoke from distant wildfires drifting into the city.,1
+69,,,Heavy rainfall causing localized flooding.,1
+70,,,Minor earthquake reported in the area.,1
+71,,,Sunny weather perfect for outdoor activities.,0
+72,,,Autumn leaves falling gracefully from the trees.,0
+73,,,Snowfall expected to intensify overnight.,1
+74,,,Rockslide reported on the mountain pass.,1
+75,,,Thunderstorm warning issued for the evening.,1
+76,,,Sunny skies and cool temperatures forecasted.,0
+77,,,Enjoying a bike ride through the countryside.,0
+78,,,Winter storm warning upgraded to blizzard warning.,1
+79,,,Flash flood warning issued for the county.,1
+80,,,Sunny weather perfect for a picnic.,0
+81,,,Enjoying the beautiful spring weather.,0
+82,,,Snowfall accumulation expected to continue overnight.,1
+83,,,Heavy rain causing street flooding.,1
+84,,,Earthquake aftershocks continue to be felt.,1
+85,,,Sunny skies and warm temperatures expected.,0
+86,,,Fall foliage tour scheduled for next weekend.,0
+87,,,Winter weather advisory issued for the region.,1
+88,,,Flash flooding reported in low-lying areas.,1
+89,,,Thunderstorm activity expected to increase later today.,1
+90,,,Snow flurries observed in the morning.,1
+91,,,Clear skies and mild temperatures forecasted.,0
+92,,,Enjoying a hike in the mountains.,0
+93,,,Heatwave warning issued for the city.,1
+94,,,Smoke from nearby wildfires visible in the sky.,1
+95,,,Heavy rain causing traffic delays.,1
+96,,,Minor earthquake tremors felt in the region.,1
+97,,,Sunny weather perfect for outdoor events.,0
+98,,,Enjoying a walk in the park.,0
+99,,,Winter weather advisory in effect.,1
+100,,,Flash flood watch issued for the region.,1
+101,,,Sunny skies and warm temperatures expected.,0
+102,,,Fall foliage at its peak.,0
+103,,,Snowstorm warning upgraded to blizzard warning.,1
+104,,,Mudslide reported on the highway.,1
+105,,,Thunderstorms expected to develop this afternoon.,1
+106,,,Snow accumulation expected overnight.,1
+107,,,Clear skies and mild temperatures forecasted.,0
+108,,,Enjoying a day at the lake with family.,0
+109,,,Heatwave causing record-breaking temperatures.,1
+110,,,Smoke from distant wildfires drifting into the city.,1
+111,,,Heavy rainfall causing localized flooding.,1
+112,,,Minor earthquake reported in the area.,1
+113,,,Sunny weather perfect for outdoor activities.,0
+114,,,Autumn leaves falling gracefully from the trees.,0
+115,,,Snowfall expected to intensify overnight.,1
+116,,,Rockslide reported on the mountain pass.,1
+117,,,Thunderstorm warning issued for the evening.,1
+118,,,Sunny skies and cool temperatures forecasted.,0
+119,,,Enjoying a bike ride through the countryside.,0
+120,,,Winter storm warning upgraded to blizzard warning.,1
+121,,,Flash flood warning issued for the county.,1
+122,,,Sunny weather perfect for a picnic.,0
+123,,,Enjoying the beautiful spring weather.,0
+124,,,Snowfall accumulation expected to continue overnight.,1
+125,,,Heavy rain causing street flooding.,1
+126,,,Earthquake aftershocks continue to be felt.,1
+127,,,Sunny skies and warm temperatures expected.,0
+128,,,Fall foliage tour scheduled for next weekend.,0
+129,,,Winter weather advisory issued for the region.,1
+130,,,Flash flooding reported in low-lying areas.,1
+131,,,Thunderstorm activity expected to increase later today.,1
+132,,,Snow flurries observed in the morning.,1
+133,,,Clear skies and mild temperatures forecasted.,0
+134,,,Enjoying a hike in the mountains.,0
+135,,,Heatwave warning issued for the city.,1
+136,,,Smoke from nearby wildfires visible in the sky.,1
+137,,,Heavy rain causing traffic delays.,1
+138,,,Minor earthquake tremors felt in the region.,1
+139,,,Sunny weather perfect for outdoor events.,0
+140,,,Enjoying a walk in the park.,0
+141,,,Winter weather advisory in effect.,1
+142,,,Flash flood watch issued for the region.,1
+143,,,Sunny skies and warm temperatures expected.,0
+144,,,Fall foliage at its peak.,0
+145,,,Snowstorm warning upgraded to blizzard warning.,1
+146,,,Mudslide reported on the highway.,1
+147,,,Thunderstorms expected to develop this afternoon.,1
+148,,,Snow accumulation expected overnight.,1
+149,,,Clear skies and mild temperatures forecasted.,0
+150,,,Enjoying a day at the lake with family.,0
+151,,,Heatwave causing record-breaking temperatures.,1
+152,,,Smoke from distant wildfires drifting into the city.,1
+153,,,Heavy rainfall causing localized flooding.,1
+154,,,Minor earthquake reported in the area.,1
+155,,,Sunny weather perfect for outdoor activities.,0
+156,,,Autumn leaves falling gracefully from the trees.,0
+157,,,Snowfall expected to intensify overnight.,1
+158,,,Rockslide reported on the mountain pass.,1
+159,,,Thunderstorm warning issued for the evening.,1
+160,,,Sunny skies and cool temperatures forecasted.,0
+161,,,Enjoying a bike ride through the countryside.,0
+162,,,Winter storm warning upgraded to blizzard warning.,1
+163,,,Flash flood warning issued for the county.,1
+164,,,Sunny weather perfect for a picnic.,0
+165,,,Enjoying the beautiful spring weather.,0
+166,,,Snowfall accumulation expected to continue overnight.,1
+167,,,Heavy rain causing street flooding.,1
+168,,,Earthquake aftershocks continue to be felt.,1
+169,,,Sunny skies and warm temperatures expected.,0
+170,,,Fall foliage tour scheduled for next weekend.,0
+171,,,Winter weather advisory issued for the region.,1
+172,,,Flash flooding reported in low-lying areas.,1
+173,,,Thunderstorm activity expected to increase later today.,1
+174,,,Snow flurries observed in the morning.,1
+175,,,Clear skies and mild temperatures forecasted.,0
+176,,,Enjoying a hike in the mountains.,0
+177,,,Heatwave warning issued for the city.,1
+178,,,Smoke from nearby wildfires visible in the sky.,1
+179,,,Heavy rain causing traffic delays.,1
+180,,,Minor earthquake tremors felt in the region.,1
+181,,,Sunny weather perfect for outdoor events.,0
+182,,,Enjoying a walk in the park.,0
+183,,,Winter weather advisory in effect.,1
+184,,,Flash flood watch issued for the region.,1
+185,,,Sunny skies and warm temperatures expected.,0
+186,,,Fall foliage at its peak.,0
+187,,,Snowstorm warning upgraded to blizzard warning.,1
+188,,,Mudslide reported on the highway.,1
+189,,,Thunderstorms expected to develop this afternoon.,1
+190,,,Snow accumulation expected overnight.,1
+191,,,Clear skies and mild temperatures forecasted.,0
+192,,,Enjoying a day at the lake with family.,0
+193,,,Heatwave causing record-breaking temperatures.,1
+194,,,Smoke from distant wildfires drifting into the city.,1
+195,,,Heavy rainfall causing localized flooding.,1
+196,,,Minor earthquake reported in the area.,1
+197,,,Sunny weather perfect for outdoor activities.,0
+198,,,Autumn leaves falling gracefully from the trees.,0
+199,,,Snowfall expected to intensify overnight.,1
+200,,,Rockslide reported on the mountain pass.,1
+201,,,Thunderstorm warning issued for the evening.,1
+202,,,Sunny skies and cool temperatures forecasted.,0
+203,,,Enjoying a bike ride through the countryside.,0
+204,,,Winter storm warning upgraded to blizzard warning.,1
+205,,,Flash flood warning issued for the county.,1
+206,,,Sunny weather perfect for a picnic.,0
+207,,,Enjoying the beautiful spring weather.,0
+208,,,Snowfall accumulation expected to continue overnight.,1
+209,,,Heavy rain causing street flooding.,1
+210,,,Earthquake aftershocks continue to be felt.,1
+211,,,Sunny skies and warm temperatures expected.,0
+212,,,Fall foliage tour scheduled for next weekend.,0
+213,,,Winter weather advisory issued for the region.,1
+214,,,Flash flooding reported in low-lying areas.,1
+215,,,Thunderstorm activity expected to increase later today.,1
+216,,,Snow flurries observed in the morning.,1
+217,,,Clear skies and mild temperatures forecasted.,0
+218,,,Enjoying a hike in the mountains.,0
+219,,,Heatwave warning issued for the city.,1
+220,,,Smoke from nearby wildfires visible in the sky.,1
+221,,,Heavy rain causing traffic delays.,1
+222,,,Minor earthquake tremors felt in the region.,1
+223,,,Sunny weather perfect for outdoor events.,0
+224,,,Enjoying a walk in the park.,0
+225,,,Winter weather advisory in effect.,1
+226,,,Flash flood watch issued for the region.,1
+227,,,Sunny skies and warm temperatures expected.,0
+228,,,Fall foliage at its peak.,0
+229,,,Snowstorm warning upgraded to blizzard warning.,1
+230,,,Mudslide reported on the highway.,1
+231,,,Thunderstorms expected to develop this afternoon.,1
+232,,,Snow accumulation expected overnight.,1
+233,,,Clear skies and mild temperatures forecasted.,0
+234,,,Enjoying a day at the lake with family.,0
+235,,,Heatwave causing record-breaking temperatures.,1
+236,,,Smoke from distant wildfires drifting into the city.,1
+237,,,Heavy rainfall causing localized flooding.,1
+238,,,Minor earthquake reported in the area.,1
+239,,,Sunny weather perfect for outdoor activities.,0
+240,,,Autumn leaves falling gracefully from the trees.,0
+241,,,Snowfall expected to intensify overnight.,1
+242,,,Rockslide reported on the mountain pass.,1
+243,,,Thunderstorm warning issued for the evening.,1
+244,,,Sunny skies and cool temperatures forecasted.,0
+245,,,Enjoying a bike ride through the countryside.,0
+246,,,Winter storm warning upgraded to blizzard warning.,1
+247,,,Flash flood warning issued for the county.,1
+248,,,Sunny weather perfect for a picnic.,0
+249,,,Enjoying the beautiful spring weather.,0
+250,,,Snowfall accumulation expected to continue overnight.,1
+251,,,Heavy rain causing street flooding.,1
+252,,,Earthquake aftershocks continue to be felt.,1
+253,,,Sunny skies and warm temperatures expected.,0
+254,,,Fall foliage tour scheduled for next weekend.,0
+255,,,Winter weather advisory issued for the region.,1
+256,,,Flash flooding reported in low-lying areas.,1
+257,,,Thunderstorm activity expected to increase later today.,1
+258,,,Snow flurries observed in the morning.,1
+259,,,Clear skies and mild temperatures forecasted.,0
+260,,,Enjoying a hike in the mountains.,0
+261,,,Heatwave warning issued for the city.,1
+262,,,Smoke from nearby wildfires visible in the sky.,1
+263,,,Heavy rain causing traffic delays.,1
+264,,,Minor earthquake tremors felt in the region.,1
+265,,,Sunny weather perfect for outdoor events.,0
+266,,,Enjoying a walk in the park.,0
+267,,,Winter weather advisory in effect.,1
+268,,,Flash flood watch issued for the region.,1
+269,,,Sunny skies and warm temperatures expected.,0
+270,,,Fall foliage at its peak.,0
+271,,,Snowstorm warning upgraded to blizzard warning.,1
+272,,,Mudslide reported on the highway.,1
+273,,,Thunderstorms expected to develop this afternoon.,1
+274,,,Snow accumulation expected overnight.,1
+275,,,Clear skies and mild temperatures forecasted.,0
+276,,,Enjoying a day at the lake with family.,0
+277,,,Heatwave causing record-breaking temperatures.,1
+278,,,Smoke from distant wildfires drifting into the city.,1
+279,,,Heavy rainfall causing localized flooding.,1
+280,,,Minor earthquake reported in the area.,1
+281,,,Sunny weather perfect for outdoor activities.,0
+282,,,Autumn leaves falling gracefully from the trees.,0
+283,,,Snowfall expected to intensify overnight.,1
+284,,,Rockslide reported on the mountain pass.,1
+285,,,Thunderstorm warning issued for the evening.,1
+286,,,Sunny skies and cool temperatures forecasted.,0
+287,,,Enjoying a bike ride through the countryside.,0
+288,,,Winter storm warning upgraded to blizzard warning.,1
+289,,,Flash flood warning issued for the county.,1
+290,,,Sunny weather perfect for a picnic.,0
+291,,,Enjoying the beautiful spring weather.,0
+292,,,Snowfall accumulation expected to continue overnight.,1
+293,,,Heavy rain causing street flooding.,1
+294,,,Earthquake aftershocks continue to be felt.,1
+295,,,Sunny skies and warm temperatures expected.,0
+296,,,Fall foliage tour scheduled for next weekend.,0
+297,,,Winter weather advisory issued for the region.,1
+298,,,Flash flooding reported in low-lying areas.,1
+299,,,Thunderstorm activity expected to increase later today.,1
+300,,,Snow flurries observed in the morning.,1
+301,,,Clear skies and mild temperatures forecasted.,0
+302,,,Enjoying a hike in the mountains.,0
+303,,,Heatwave warning issued for the city.,1
+304,,,Smoke from nearby wildfires visible in the sky.,1
+305,,,Heavy rain causing traffic delays.,1
+306,,,Minor earthquake tremors felt in the region.,1
+307,,,Sunny weather perfect for outdoor events.,0
+308,,,Enjoying a walk in the park.,0
+309,,,Winter weather advisory in effect.,1
+310,,,Flash flood watch issued for the region.,1
+311,,,Sunny skies and warm temperatures expected.,0
+312,,,Fall foliage at its peak.,0
+313,,,Snowstorm warning upgraded to blizzard warning.,1
+314,,,Mudslide reported on the highway.,1
+315,,,Thunderstorms expected to develop this afternoon.,1
+316,,,Snow accumulation expected overnight.,1
+317,,,Clear skies and mild temperatures forecasted.,0
+318,,,Enjoying a day at the lake with family.,0
+319,,,Heatwave causing record-breaking temperatures.,1
+320,,,Smoke from distant wildfires drifting into the city.,1
+321,,,Heavy rainfall causing localized flooding.,1
+322,,,Minor earthquake reported in the area.,1
+323,,,Sunny weather perfect for outdoor activities.,0
+324,,,Autumn leaves falling gracefully from the trees.,0
+325,,,Snowfall expected to intensify overnight.,1
+326,,,Rockslide reported on the mountain pass.,1
+327,,,Thunderstorm warning issued for the evening.,1
+328,,,Sunny skies and cool temperatures forecasted.,0
+329,,,Enjoying a bike ride through the countryside.,0
+330,,,Winter storm warning upgraded to blizzard warning.,1
+331,,,Flash flood warning issued for the county.,1
+332,,,Sunny weather perfect for a picnic.,0
+333,,,Enjoying the beautiful spring weather.,0
+334,,,Snowfall accumulation expected to continue overnight.,1
+335,,,Heavy rain causing street flooding.,1
+336,,,Earthquake aftershocks continue to be felt.,1
+337,,,Sunny skies and warm temperatures expected.,0
+338,,,Fall foliage tour scheduled for next weekend.,0
+339,,,Winter weather advisory issued for the region.,1
+340,,,Flash flooding reported in low-lying areas.,1
+341,,,Thunderstorm activity expected to increase later today.,1
+342,,,Snow flurries observed in the morning.,1
+343,,,Clear skies and mild temperatures forecasted.,0
+344,,,Enjoying a hike in the mountains.,0
+345,,,Heatwave warning issued for the city.,1
+346,,,Smoke from nearby wildfires visible in the sky.,1
+347,,,Heavy rain causing traffic delays.,1
+348,,,Minor earthquake tremors felt in the region.,1
+349,,,Sunny weather perfect for outdoor events.,0
+350,,,Enjoying a walk in the park.,0
+351,,,Winter weather advisory in effect.,1
+352,,,Flash flood watch issued for the region.,1
+353,,,Sunny skies and warm temperatures expected.,0
+354,,,Fall foliage at its peak.,0
+355,,,Snowstorm warning upgraded to blizzard warning.,1
+356,,,Mudslide reported on the highway.,1
+357,,,Thunderstorms expected to develop this afternoon.,1
+358,,,Snow accumulation expected overnight.,1
+359,,,Clear skies and mild temperatures forecasted.,0
+360,,,Enjoying a day at the lake with family.,0
+361,,,Heatwave causing record-breaking temperatures.,1
+362,,,Smoke from distant wildfires drifting into the city.,1
+363,,,Heavy rainfall causing localized flooding.,1
+364,,,Minor earthquake reported in the area.,1
+365,,,Sunny weather perfect for outdoor activities.,0
+366,,,Autumn leaves falling gracefully from the trees.,0
+367,,,Snowfall expected to intensify overnight.,1
+368,,,Rockslide reported on the mountain pass.,1
+369,,,Thunderstorm warning issued for the evening.,1
+370,,,Sunny skies and cool temperatures forecasted.,0
+371,,,Enjoying a bike ride through the countryside.,0
+372,,,Winter storm warning upgraded to blizzard warning.,1
+373,,,Flash flood warning issued for the county.,1
+374,,,Sunny weather perfect for a picnic.,0
+375,,,Enjoying the beautiful spring weather.,0
+376,,,Snowfall accumulation expected to continue overnight.,1
+377,,,Heavy rain causing street flooding.,1
+378,,,Earthquake aftershocks continue to be felt.,1
+379,,,Sunny skies and warm temperatures expected.,0
+380,,,Fall foliage tour scheduled for next weekend.,0
+381,,,Winter weather advisory issued for the region.,1
+382,,,Flash flooding reported in low-lying areas.,1
+383,,,Thunderstorm activity expected to increase later today.,1
+384,,,Snow flurries observed in the morning.,1
+385,,,Clear skies and mild temperatures forecasted.,0
+386,,,Enjoying a hike in the mountains.,0
+387,,,Heatwave warning issued for the city.,1
+388,,,Smoke from nearby wildfires visible in the sky.,1
+389,,,Heavy rain causing traffic delays.,1
+390,,,Minor earthquake tremors felt in the region.,1
+391,,,Sunny weather perfect for outdoor events.,0
+392,,,Enjoying a walk in the park.,0
+393,,,Winter weather advisory in effect.,1
+394,,,Flash flood watch issued for the region.,1
+395,,,Sunny skies and warm temperatures expected.,0
+396,,,Fall foliage at its peak.,0
+397,,,Snowstorm warning upgraded to blizzard warning.,1
+398,,,Mudslide reported on the highway.,1
+399,,,Thunderstorms expected to develop this afternoon.,1
+400,,,Snow accumulation expected overnight.,1
+401,,,Clear skies and mild temperatures forecasted.,0
+402,,,Enjoying a day at the lake with family.,0
+403,,,Heatwave causing record-breaking temperatures.,1
+404,,,Smoke from distant wildfires drifting into the city.,1
+405,,,Heavy rainfall causing localized flooding.,1
+406,,,Minor earthquake reported in the area.,1
+407,,,Sunny weather perfect for outdoor activities.,0
+408,,,Autumn leaves falling gracefully from the trees.,0
+409,,,Snowfall expected to intensify overnight.,1
+410,,,Rockslide reported on the mountain pass.,1
+411,,,Thunderstorm warning issued for the evening.,1
+412,,,Sunny skies and cool temperatures forecasted.,0
+413,,,Enjoying a bike ride through the countryside.,0
+414,,,Winter storm warning upgraded to blizzard warning.,1
+415,,,Flash flood warning issued for the county.,1
+416,,,Sunny weather perfect for a picnic.,0
+417,,,Enjoying the beautiful spring weather.,0
+418,,,Snowfall accumulation expected to continue overnight.,1
+419,,,Heavy rain causing street flooding.,1
+420,,,Earthquake aftershocks continue to be felt.,1
+421,,,Sunny skies and warm temperatures expected.,0
+422,,,Fall foliage tour scheduled for next weekend.,0
+423,,,Winter weather advisory issued for the region.,1
+424,,,Flash flooding reported in low-lying areas.,1
+425,,,Thunderstorm activity expected to increase later today.,1
+426,,,Snow flurries observed in the morning.,1
+427,,,Clear skies and mild temperatures forecasted.,0
+428,,,Enjoying a hike in the mountains.,0
+429,,,Heatwave warning issued for the city.,1
+430,,,Smoke from nearby wildfires visible in the sky.,1
+431,,,Heavy rain causing traffic delays.,1
+432,,,Minor earthquake tremors felt in the region.,1
+433,,,Sunny weather perfect for outdoor events.,0
+434,,,Enjoying a walk in the park.,0
+435,,,Winter weather advisory in effect.,1
+436,,,Flash flood watch issued for the region.,1
+437,,,Sunny skies and warm temperatures expected.,0
+438,,,Fall foliage at its peak.,0
+439,,,Snowstorm warning upgraded to blizzard warning.,1
+440,,,Mudslide reported on the highway.,1
+441,,,Thunderstorms expected to develop this afternoon.,1
+442,,,Snow accumulation expected overnight.,1
+443,,,Clear skies and mild temperatures forecasted.,0
+444,,,Enjoying a day at the lake with family.,0
+445,,,Heatwave causing record-breaking temperatures.,1
+446,,,Smoke from distant wildfires drifting into the city.,1
+447,,,Heavy rainfall causing localized flooding.,1
+448,,,Minor earthquake reported in the area.,1
+449,,,Sunny weather perfect for outdoor activities.,0
+450,,,Autumn leaves falling gracefully from the trees.,0
+451,,,Snowfall expected to intensify overnight.,1
+452,,,Rockslide reported on the mountain pass.,1
+453,,,Thunderstorm warning issued for the evening.,1
+454,,,Sunny skies and cool temperatures forecasted.,0
+455,,,Enjoying a bike ride through the countryside.,0
+456,,,Winter storm warning upgraded to blizzard warning.,1
+457,,,Flash flood warning issued for the county.,1
+458,,,Sunny weather perfect for a picnic.,0
+459,,,Enjoying the beautiful spring weather.,0
+460,,,Snowfall accumulation expected to continue overnight.,1
+461,,,Heavy rain causing street flooding.,1
+462,,,Earthquake aftershocks continue to be felt.,1
+463,,,Sunny skies and warm temperatures expected.,0
+464,,,Fall foliage tour scheduled for next weekend.,0
+465,,,Winter weather advisory issued for the region.,1
+466,,,Flash flooding reported in low-lying areas.,1
+467,,,Thunderstorm activity expected to increase later today.,1
+468,,,Snow flurries observed in the morning.,1
+469,,,Clear skies and mild temperatures forecasted.,0
+470,,,Enjoying a hike in the mountains.,0
+471,,,Heatwave warning issued for the city.,1
+472,,,Smoke from nearby wildfires visible in the sky.,1
+473,,,Heavy rain causing traffic delays.,1
+474,,,Minor earthquake tremors felt in the region.,1
+475,,,Sunny weather perfect for outdoor events.,0
+476,,,Enjoying a walk in the park.,0
+477,,,Winter weather advisory in effect.,1
+478,,,Flash flood watch issued for the region.,1
+479,,,Sunny skies and warm temperatures expected.,0
+480,,,Fall foliage at its peak.,0
+481,,,Snowstorm warning upgraded to blizzard warning.,1
+482,,,Mudslide reported on the highway.,1
+483,,,Thunderstorms expected to develop this afternoon.,1
+484,,,Snow accumulation expected overnight.,1
+485,,,Clear skies and mild temperatures forecasted.,0
+486,,,Enjoying a day at the lake with family.,0
+487,,,Heatwave causing record-breaking temperatures.,1
+488,,,Smoke from distant wildfires drifting into the city.,1
+489,,,Heavy rainfall causing localized flooding.,1
+490,,,Minor earthquake reported in the area.,1
+491,,,Sunny weather perfect for outdoor activities.,0
+492,,,Autumn leaves falling gracefully from the trees.,0
+493,,,Snowfall expected to intensify overnight.,1
+494,,,Rockslide reported on the mountain pass.,1
+495,,,Thunderstorm warning issued for the evening.,1
+496,,,Sunny skies and cool temperatures forecasted.,0
+497,,,Enjoying a bike ride through the countryside.,0
+498,,,Winter storm warning upgraded to blizzard warning.,1
+499,,,Flash flood warning issued for the county.,1
+500,,,Sunny weather perfect for a picnic.,0
+501,ablaze,Paranaque City,Ablaze for you Lord :D,0
+502,ablaze,Live On Webcam,Check these out: http://t.co/rOI2NSmEJJ http://t.co/3Tj8ZjiN21 http://t.co/YDUiXEfIpE http://t.co/LxTjc87KLS #nsfw,0
+503,ablaze,,"on the outside you're ablaze and alive
+but you're dead inside",0
+504,ablaze,milky way,Had an awesome time visiting the CFC head office the ancop site and ablaze. Thanks to Tita Vida for taking care of us ??,0
+505,ablaze,,SOOOO PUMPED FOR ABLAZE ???? @southridgelife,0
+506,ablaze,,I wanted to set Chicago ablaze with my preaching... But not my hotel! http://t.co/o9qknbfOFX,0
+507,ablaze,,I gained 3 followers in the last week. You? Know your stats and grow with http://t.co/TIyUliF5c6,0
+508,ablaze,"GREENSBORO,NORTH CAROLINA",How the West was burned: Thousands of wildfires ablaze in California alone http://t.co/vl5TBR3wbr,1
+509,ablaze,,Building the perfect tracklist to life leave the streets ablaze,0
+510,ablaze,Live On Webcam,Check these out: http://t.co/rOI2NSmEJJ http://t.co/3Tj8ZjiN21 http://t.co/YDUiXEfIpE http://t.co/LxTjc87KLS #nsfw,0
+511,ablaze,England.,First night with retainers in. It's quite weird. Better get used to it; I have to wear them every single night for the next year at least.,0
+512,ablaze,"Sheffield Township, Ohio",Deputies: Man shot before Brighton home set ablaze http://t.co/gWNRhMSO8k,1
+513,ablaze,India,"Man wife get six years jail for setting ablaze niece
+http://t.co/eV1ahOUCZA",1
+514,ablaze,Barbados,SANTA CRUZ ÛÓ Head of the St Elizabeth Police Superintendent Lanford Salmon has r ... - http://t.co/vplR5Hka2u http://t.co/SxHW2TNNLf,0
+515,ablaze,Anaheim,Police: Arsonist Deliberately Set Black Church In North CarolinaåÊAblaze http://t.co/pcXarbH9An,1
+516,ablaze,Abuja,Noches El-Bestia '@Alexis_Sanchez: happy to see my teammates and training hard ?? goodnight gunners.?????? http://t.co/uc4j4jHvGR',0
+517,ablaze,USA,#Kurds trampling on Turkmen flag later set it ablaze while others vandalized offices of Turkmen Front in #Diyala http://t.co/4IzFdYC3cg,1
+518,ablaze,South Africa,TRUCK ABLAZE : R21. VOORTREKKER AVE. OUTSIDE OR TAMBO INTL. CARGO SECTION. http://t.co/8kscqKfKkF,1
+519,ablaze,"Sao Paulo, Brazil",Set our hearts ablaze and every city was a gift And every skyline was like a kiss upon the lips @Û_ https://t.co/cYoMPZ1A0Z,0
+520,ablaze,hollywoodland ,They sky was ablaze tonight in Los Angeles. I'm expecting IG and FB to be filled with sunset shots if I know my peeps!!,0
+521,ablaze,"Edmonton, Alberta - Treaty 6",How the West was burned: Thousands of wildfires ablaze in #California alone http://t.co/iCSjGZ9tE1 #climate #energy http://t.co/9FxmN0l0Bd,1
+522,ablaze,,Revel in yours wmv videos by means of mac farewell ablaze wmv en route to dvd: GtxRWm,0
+523,ablaze,Inang Pamantasan,"Progressive greetings!
+
+In about a month students would have set their pens ablaze in The Torch Publications'... http://t.co/9FxPiXQuJt",0
+524,ablaze,Twitter Lockout in progress,Rene Ablaze &amp; Jacinta - Secret 2k13 (Fallen Skies Edit) - Mar 30 2013  https://t.co/7MLMsUzV1Z,0
+525,ablaze,"Concord, CA",@Navista7 Steve these fires out here are something else! California is a tinderbox - and this clown was setting my 'hood ablaze @News24680,1
+526,ablaze,"Calgary, AB",#NowPlaying: Rene Ablaze &amp; Ian Buff - Magnitude http://t.co/Av2JSjfFtc  #EDM,0
+527,ablaze,Birmingham,@nxwestmidlands huge fire at Wholesale markets ablaze http://t.co/rwzbFVNXER,1
+528,ablaze,San Francisco,@ablaze what time does your talk go until? I don't know if I can make it due to work.,0
+529,accident,CLVLND,'I can't have kids cuz I got in a bicycle accident &amp; split my testicles. it's impossible for me to have kids' MICHAEL YOU ARE THE FATHER,0
+530,accident,"Nashville, TN",Accident on I-24 W #NashvilleTraffic. Traffic moving 8m slower than usual. https://t.co/0GHk693EgJ,1
+531,accident,"Santa Clara, CA",Accident center lane blocked in #SantaClara on US-101 NB before Great America Pkwy #BayArea #Traffic http://t.co/pmlOhZuRWR,1
+532,accident,UK,http://t.co/GKYe6gjTk5 Had a #personalinjury accident this summer? Read our advice &amp; see how a #solicitor can help #OtleyHour,0
+533,accident,"St. Louis, MO",#stlouis #caraccidentlawyer Speeding Among Top Causes of Teen Accidents https://t.co/k4zoMOF319 https://t.co/S2kXVM0cBA Car Accident teeÛ_,0
+534,accident,"Walker County, Alabama",Reported motor vehicle accident in Curry on Herman Rd near Stephenson involving an overturned vehicle. Please use... http://t.co/YbJezKuRW1,1
+535,accident,Australia,BigRigRadio Live Accident Awareness,1
+536,accident,North Carolina,I-77 Mile Marker 31 South Mooresville  Iredell Vehicle Accident Ramp Closed at 8/6 1:18 PM,1
+537,accident,,RT @SleepJunkies: Sleeping pills double your risk of a car accident http://t.co/7s9Nm1fiCT,0
+538,accident,Norf Carolina,'By accident' they knew what was gon happen https://t.co/Ysxun5vCeh,0
+539,accident,"San Mateo County, CA",Traffic accident N CABRILLO HWY/MAGELLAN AV MIR (08/06/15 11:03:58),1
+540,accident,North Carolina,I-77 Mile Marker 31 to 40 South Mooresville  Iredell Vehicle Accident Congestion at 8/6 1:18 PM,1
+541,accident,"Njoro, Kenya",the pastor was not in the scene of the accident......who was the owner of the range rover ?,1
+542,accident,,"mom: 'we didn't get home as fast as we wished'
+me: 'why is that?'
+mom: 'there was an accident and some truck spilt mayonnaise all over ??????",0
+543,accident,Your Sister's Bedroom,I was in a horrible car accident this past Sunday. I'm finally able to get around. Thank you GOD??,1
+544,accident,,Can wait to see how pissed Donnie is when I tell him I was in ANOTHER accident??,0
+545,accident,"Arlington, TX",#TruckCrash Overturns On #FortWorth Interstate http://t.co/Rs22LJ4qFp Click here if you've been in a crash&gt;http://t.co/Ld0unIYw4k,1
+546,accident,"South Bloomfield, OH",Accident in #Ashville on US 23 SB before SR 752 #traffic http://t.co/hylMo0WgFI,1
+547,accident,,Carolina accident: Motorcyclist Dies in I-540 Crash With Car That Crossed Median: A motorcycle rider traveling... http://t.co/p18lzRlmy6,1
+548,accident,"New Hanover County, NC",FYI CAD:FYI: ;ACCIDENT PROPERTY DAMAGE;NHS;999 PINER RD/HORNDALE DR,1
+549,accident,Maldives,RT nAAYf: First accident in years. Turning onto Chandanee Magu from near MMA. Taxi rammed into me while I was halfway turned. Everyone confÛ_,1
+550,accident,"Manchester, NH",Accident left lane blocked in #Manchester on Rt 293 NB before Eddy Rd stop and go traffic back to NH-3A delay of 4 mins #traffic,1
+551,accident,"Wilmington, NC",;ACCIDENT PROPERTY DAMAGE; PINER RD/HORNDALE DR,1
+552,accident,,???? it was an accident http://t.co/Oia5fxi4gM,0
+553,accident,"New Hanover County, NC",FYI CAD:FYI: ;ACCIDENT PROPERTY DAMAGE;WPD;1600 S 17TH ST,1
+554,accident,,8/6/2015@2:09 PM: TRAFFIC ACCIDENT NO INJURY at 2781 WILLIS FOREMAN RD http://t.co/VCkIT6EDEv,1
+555,accident,global,Aashiqui Actress Anu Aggarwal On Her Near-Fatal Accident http://t.co/6Otfp31LqW,1
+556,accident,Alberta | Sask. | Montana,Suffield Alberta Accident https://t.co/bPTmlF4P10,1
+557,accident,Charlotte,9 Mile backup on I-77 South...accident blocking the Right 2 Lanes at Exit 31 Langtree Rd...consider NC 115 or NC 150 to NC 16 as alternate,1
+558,accident,"Baton Rouge, LA",Has an accident changed your life? We will help you determine options that can financially support life care plans and on-going treatment.,0
+559,accident,"Hagerstown, MD",#BREAKING: there was a deadly motorcycle car accident that happened to #Hagerstown today. I'll have more details at 5 @Your4State. #WHAG,1
+560,accident,"Gloucestershire , UK",@flowri were you marinading it or was it an accident?,0
+561,accident,,only had a car for not even a week and got in a fucking car accident .. Mfs can't fucking drive .,1
+562,accident,UK,.@NorwayMFA #Bahrain police had previously died in a road accident they were not killed by explosion https://t.co/gFJfgTodad,1
+563,accident,"Nairobi, Kenya",I still have not heard Church Leaders of Kenya coming forward to comment on the accident issue and disciplinary measures#ArrestPastorNganga,0
+564,aftershock,Instagram - @heyimginog ,@afterShock_DeLo scuf ps live and the game... cya,0
+565,aftershock,304,"'The man who can drive himself further once the effort gets painful is the man who will win.'
+Roger Bannister",0
+566,aftershock,Switzerland,320 [IR] ICEMOON [AFTERSHOCK] | http://t.co/yNXnvVKCDA | @djicemoon | #Dubstep #TrapMusic #DnB #EDM #Dance #IcesÛ_ http://t.co/weQPesENku,0
+567,aftershock,304,'There is no victory at bargain basement prices.' Dwight David Eisenhower,0
+568,aftershock,US,320 [IR] ICEMOON [AFTERSHOCK] | http://t.co/vAM5POdGyw | @djicemoon | #Dubstep #TrapMusic #DnB #EDM #Dance #IcesÛ_ http://t.co/zEVakJaPcz,0
+569,aftershock,304,'Nobody remembers who came in second.' Charles Schulz,0
+570,aftershock,Instagram - @heyimginog ,@afterShock_DeLo im speaking from someone that is using a scuf on xb1 most of them people will end up getting on for ps also.,0
+571,aftershock,304,'The harder the conflict the more glorious the triumph.' Thomas Paine,0
+572,aftershock,,#GrowingUpSpoiled going clay pigeon shooting and crying because of the 'aftershock',0
+573,aftershock,Somewhere Only We Know ?,So i guess no one actually wants any free Aftershock TC.....,0
+574,aftershock,,Aftershock was the most terrifying best roller coaster I've ever been on. *DISCLAIMER* I've been on very few.,0
+575,aftershock,Belgium,Aftershock https://t.co/xMWODFMtUI,0
+576,aftershock,Switzerland,320 [IR] ICEMOON [AFTERSHOCK] | http://t.co/M4JDZMGJoW | @djicemoon | #Dubstep #TrapMusic #DnB #EDM #Dance #IcesÛ_ http://t.co/n0uhAsfkBv,0
+577,aftershock,US,320 [IR] ICEMOON [AFTERSHOCK] | http://t.co/vAM5POdGyw | @djicemoon | #Dubstep #TrapMusic #DnB #EDM #Dance #IcesÛ_ http://t.co/zEVakJaPcz,0
+578,aftershock,,320 [IR] ICEMOON [AFTERSHOCK] | http://t.co/e14EPzhotH | @djicemoon | #Dubstep #TrapMusic #DnB #EDM #Dance #IcesÛ_ http://t.co/22a9D5DO6q,0
+579,aftershock,dope show,@KJForDays I'm seeing them and Issues at aftershock ??,0
+580,aftershock,Switzerland,320 [IR] ICEMOON [AFTERSHOCK] | http://t.co/THyzOMVWU0 | @djicemoon | #Dubstep #TrapMusic #DnB #EDM #Dance #IcesÛ_ http://t.co/83jOO0xk29,0
+581,aftershock,Switzerland,320 [IR] ICEMOON [AFTERSHOCK] | http://t.co/THyzOMVWU0 | @djicemoon | #Dubstep #TrapMusic #DnB #EDM #Dance #IcesÛ_ http://t.co/83jOO0xk29,0
+582,aftershock,"Oshawa, Canada",#WisdomWed BONUS - 5 Minute Daily Habits that could really improve your life. How many do you already do? #lifehacks http://t.co/TBm9FQb8cW,0
+583,aftershock,Baker City Oregon,Aftershock: Protect Yourself and Profit in the Next Global Financial Meltdown by David Wiedemer http http://t.co/WZTz4hgMVq,0
+584,aftershock,,That moment when you get on a scary roller coaster and the guy behind you is just screaming bloody murder ?????? #silverwood #aftershock,0
+585,aftershock,,Aftershock ã¢ (2010) Fullã¢ Streaming - YouTube http://t.co/vVE3UsesGf,0
+586,aftershock,United States,"&gt;&gt; $15 Aftershock : Protect Yourself and Profit in the Next Global Financial... ##book http://t.co/f6ntUc734Z
+@esquireattire",0
+587,aftershock,304,Sometimes you face difficulties not because you're doing something wrong but because you're doing something right. - Joel Osteen,0
+588,aftershock,304,'The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.' - Joel Brown,0
+589,aftershock,marysville ca ,Praise God that we have ministry that tells it like it is!!! #now #wdyouth #biblestudy https://t.co/UjK0e5GBcC,0
+590,aftershock,304,'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.' ÛÒ Steve Jobs,0
+591,aftershock,"Hermosa Beach, CA",Tried orange aftershock today. My life will never be the same,0
+592,aftershock,,@OnFireAnders I love you bb,0
+593,aftershock,,Aftershock https://t.co/jV8ppKhJY7,0
+594,aftershock,,Aftershock back to school kick off was great. I want to thank everyone for making it possible. What a great night.,0
+595,aftershock,304,People who say it cannot be done should not interrupt those who are doing it. ÛÒ George Bernard Shaw,0
+596,aftershock,304,'The first man gets the oyster the second man gets the shell.' Andrew Carnegie,0
+597,aftershock,,Anyone need a P/U tonight? I play Hybrid Slayer ps4 EU. HMU @Cod8sandscrims @EmpirikGaming @CoDAWScrims @4TP_KOTC @4TPFA @afterShock_Org,0
+598,airplane%20accident,"19.600858, -99.047821",Experts in France begin examining airplane debris found on Reunion Island: French air accident experts o... http://t.co/YVVPznZmXg #news,1
+599,airplane%20accident,Pennsylvania,Strict liability in the context of an airplane accident: Pilot error is a common component of most aviation cr... http://t.co/6CZ3bOhRd4,1
+600,airplane%20accident,"Salt Lake City, Utah",@crobscarla your lifetime odds of dying from an airplane accident are 1 in 8015.,0
+601,airplane%20accident,"Palo Alto, CA",Experts in France begin examining airplane debris found on Reunion Island: French air accident experts on Wedn... http://t.co/bKpFpOGySI,1
+602,airplane%20accident,,@AlexAllTimeLow awwww they're on an airplane accident and they're gonna die what a cuties ???? good job!,1
+603,airplane%20accident,"Spain but Opa-Locka, FL",family members of osama bin laden have died in an airplane accident how ironic ?????? mhmmm gov shit i suspect,1
+604,airplane%20accident,"Jaipur, India",Man Goes into Airplane Engine Accident: http://t.co/TYJxrFd3St via @YouTube,1
+605,airplane%20accident,Hyderabad Telangana INDIA,Horrible Accident  Man Died In Wings of Airplane (29-07-2015) http://t.co/i7kZtevb2v,1
+606,airplane%20accident,"Eagle Pass, Texas",A Cessna airplane accident in Ocampo Coahuila Mexico on July 29 2015 killed four men including a State of Coahuila government official.,1
+607,airplane%20accident,bangalore,#Horrible #Accident Man Died In Wings Airplane (29-07-2015) #WatchTheVideo http://t.co/p64xRVgJIk,1
+608,airplane%20accident,Financial News and Views,Experts in France begin examining airplane debris found on Reunion Island http://t.co/LsMx2vwr3J French air accident experts on WednesdayÛ_,1
+609,airplane%20accident,,Experts in France begin examining airplane debris found on Reunion Island: French air accident experts on Wednesday began examining t...,1
+610,airplane%20accident,Indonesia,#KCA #VoteJKT48ID mbataweel: #RIP #BINLADEN Family members who killed in an airplane's accident,1
+611,airplane%20accident,y(our) boyfriends legs ,I almost sent my coworker nudes on accident thank god for airplane mode,0
+612,airplane%20accident,"New Mexico, USA",@mickinyman @TheAtlantic That or they might be killed in an airplane accident in the night a car wreck! Politics at it's best.,0
+613,airplane%20accident,Somewhere Out There,Experts in France begin examining airplane debris found on Reunion Island: French air accident experts on... http://t.co/TagZbcXFj0 #MLB,1
+614,airplane%20accident,,"This is unbelievably insane.
+#man #airport #airplane #aircraft #aeroplane #runway #accident #freakyÛ_ https://t.co/cezhq7CzLl",1
+615,airplane%20accident,Mumbai india,Horrible Accident |  Man Died In Wings of AirplaneåÊ(29-07-2015) http://t.co/wq3wJsgPHL,1
+616,airplane%20accident,sri lanka,Horrible Accident Man Died In Wings of Airplane (29-07-2015) http://t.co/TfcdRONRA6,1
+617,airplane%20accident,Not a U.S resident,Usama bin Ladins family dead in airplane crash. Naturally no accident.,1
+618,airplane%20accident,,Pilot Dies In Plane Crash At Car Festival https://t.co/kQ9aE6AP2B via @YouTube #Crash #Aircraft #Airplane #Pilot #Death #Accident #CarFest,1
+619,airplane%20accident,"Lehigh Valley, PA",Strict liability in the context of an airplane accident - http://t.co/gibyQHhKpk,1
+620,airplane%20accident,Canada,DTN Brazil: Experts in France begin examining airplane debris found on Reunion Island: French air accident exp... http://t.co/M9IG3WQ8Lq,1
+621,airplane%20accident,,Experts in France begin examining airplane debris found on Reunion Island: French air accident experts on Wedn... http://t.co/v4SMAESLK5,1
+622,airplane%20accident,Thrissur,Horrible Accident Man Died In Wings Of ÛÏAirplaneÛ 29-07-2015. WTF You CanÛªt Believe Your EYES ÛÒ... http://t.co/6fFyLAjWpS,1
+623,airplane%20accident,Havenford,"+ Nicole Fletcher one of a victim of crashed airplane few times ago.
+
+The accident left a little bit trauma for her. Although she's
+
++",1
+624,airplane%20accident,India,OMG Horrible Accident Man Died in Wings of Airplane. http://t.co/xDxDPrcPnS,1
+625,airplane%20accident,92,"#OMG! I don't believe this. #RIP bro
+#AirPlane #Accident #JetEngine #TurboJet #Boing #G90 http://t.co/KXxnSZp6nk",1
+626,airplane%20accident,,Experts in France begin examining airplane debris found on Reunion Island: French air accident experts on Wednesday began examining t...,1
+627,airplane%20accident,Israel,I had a airplane accident.,1
+628,airplane%20accident,Fashion Heaven. IG: TMId_,My phone looks like it was in a car ship airplane accident. Terrible,0
+629,airplane%20accident,"San Francisco, CA",Statistically I'm at more of risk of getting killed by a cop than I am of dying in an airplane accident.,0
+630,airplane%20accident,italy,airplane crashes on house in Colombia 12 people die in accident https://t.co/ZhJlfLBHZL,1
+631,airplane%20accident,nyc,The shooting or the airplane accident  https://t.co/iECc1JDOub,1
+632,airplane%20accident,Toronto,Could a drone cause an airplane accident? Pilots worried about use of drones esp. in close vicinity of airports http://t.co/kz35rGngJF #,1
+633,ambulance,,Early wake up call from my sister begging me to come over &amp; ride w/her in the ambulance to the hospital #RODKiai,1
+634,ambulance,Jackson,http://t.co/AY6zzcUpnz Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/sC9dNS41Mc,1
+635,ambulance,New York / Worldwide,Two air ambulances on scene of serious crash between two cars and lorry in ... - http://t.co/9pFEaQeSki http://t.co/fntG70rnkx | #EMSNeÛ_,1
+636,ambulance,,Twelve feared killed in Pakistani air ambulance helicopter crash - Reuters http://t.co/mDnUGVuBwN #yugvani,1
+637,ambulance,"New Orleans, LA",Leading emergency services boss welcomes new ambulance charity http://t.co/Mj2jQ2pSv6,0
+638,ambulance,West Wales,Anyone travelling Aberystwyth-Shrewsbury right now there's been an incident. Services at a halt just outside Shrews. Ambulance on scene.,1
+639,ambulance,,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/Xum8YLcb4Q,1
+640,ambulance,Happily Married with 2 kids ,AMBULANCE SPRINTER AUTOMATIC FRONTLINE VEHICLE CHOICE OF 14 LEZ COMPLIANT | eBay http://t.co/4evTTqPEia,0
+641,ambulance,"Cambridge, MA",New Nanotech Device Will Be Able To Target And Destroy Blood Clots http://t.co/HFy5V3sLBB,0
+642,ambulance,Arizona ,@20skyhawkmm20 @traplord_29 @FREDOSANTANA300 @LilReese300 it was hella crazy 3 fights an ambulance and a couple mosh pits ??,1
+643,ambulance,Mumbai,If I get run over by an ambulance am I lucky? #justsaying #randomthought,0
+644,ambulance,,#news Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/bFeS5tWBzt #til_now #DNA,1
+645,ambulance,Amsterdam,http://t.co/7xGLah10zL Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/THmblAATzP,1
+646,ambulance,"Swindon,England ",@TanSlash waiting for an ambulance,0
+647,ambulance,,@fouseyTUBE you ok? Need a ambulance. Hahahah that was good! http://t.co/ZSbErqNN9n,0
+648,ambulance,Happily Married with 2 kids ,AMBULANCE SPRINTER AUTOMATIC FRONTLINE VEHICLE CHOICE OF 14 LEZ COMPLIANT | eBay http://t.co/q8IVrzOJZv,0
+649,ambulance,,Pakistan air ambulance helicopter crash kills nine http://t.co/8E7rY8eBMf,1
+650,ambulance,"Williamstown, VT",@TheNissonian @RejectdCartoons nissan are you ok do you need medical assistance i can call an ambulance if you need me to,0
+651,ambulance,"North Carolina, USA",EMS1: NY EMTs petition for $17 per hour Û÷minimum wageÛª http://t.co/4oa6SWlxmR #ems #paramedics #ambulance,0
+652,ambulance,,http://t.co/FCqmKFfflW Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/vAyaYmbNgu,1
+653,ambulance,Karachi,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/3bRme6Sn4t,1
+654,ambulance,Happily Married with 2 kids ,AMBULANCE SPRINTER AUTOMATIC FRONTLINE VEHICLE CHOICE OF 14 LEZ COMPLIANT | eBay http://t.co/UJrX9kgawp,0
+655,ambulance,Happily Married with 2 kids ,AMBULANCE SPRINTER AUTOMATIC FRONTLINE VEHICLE CHOICE OF 14 LEZ COMPLIANT | eBay http://t.co/Kp2Lf4AuTe,0
+656,ambulance,Loveland Colorado,@Kiwi_Karyn Check out what's in my parking lot!! He said that until last year it was an ambulance in St Johns. http://t.co/hPvOdUD7iP,0
+657,ambulance,|| c h i c a g o ||,when you don't know which way an ambulance is coming from &lt;&lt;,1
+658,ambulance,,#reuters Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/ShzPyIQok5,1
+659,ambulance,L. A.,http://t.co/pWwpUm6RBj Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/ySpON4d6Qo,1
+660,ambulance,,Why is there an ambulance right outside my work,0
+661,ambulance,Canada,ÛÏ@LeoBlakeCarter: This dog thinks he's an ambulance ?????? http://t.co/MG1lpGr0RMÛ@natasha_rideout,0
+662,ambulance,VISIT MY YOUTUBE CHANNEL.,HAPPENING NOW - HATZOLAH EMS AMBULANCE RESPONDING WITH DUAL SIRENS ANDÛ_ https://t.co/SeK6MQ6NJF,0
+663,ambulance,Lexington,http://t.co/FueRk0gWui Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/Mv7GgGlmVc,1
+664,ambulance,,http://t.co/X5YEUYLT1X Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/2UgrMd1z1n,1
+665,ambulance,USA,Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/TH9YwBbeet #worldNews,1
+666,ambulance,"Hannover, Germany",Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/X2Qsjod40u #worldnews,1
+667,ambulance,,What's the police or ambulance number in Lesotho? Any body know?,0
+668,ambulance,,@medic914 @AACE_org I am surprised we still cannot standardised the clinical practice across the 11 NHS ambulance trust.,0
+669,ambulance,Playa,http://t.co/J8TYT1XRRK Twelve feared killed in Pakistani air ambulance helicopter crash http://t.co/9d4nAzOI94,1
+670,ambulance,"Davidson, NC",People who try to j-walk while an ambulance is passing... I hate you.,0
+671,annihilated,Higher Places,The episode where Trunks annihilated Freiza is the cleanest shit ever. He showed that nigga no mercy.,0
+672,annihilated,"Horsemind, MI",THEY SHALL BE ANNIHILATED AND ALL OF THEIR PETEBESTS DESSICATED AND LAID BARE. THEN YOU SHALL KNEEL BEFORE ME.,0
+673,annihilated,"New York, NY",Uribe just annihilated that baseball. #Mets,0
+674,annihilated,Boksburg,@marksmaponyane Hey!Sundowns were annihilated in their previous meeting with Celtic.Indeed its an improvement.,0
+675,annihilated,,@Volfan326 @TNeazzy Mizzou has annihilated florida the past 2 seasons even ended muschamp's career just can't compete with Bama,0
+676,annihilated,,Annihilated Abs . ?? http://t.co/1xPw292tJe,1
+677,annihilated,,Be annihilated for status education mba on behalf of a on easy street careen: eOvm http://t.co/e0pI0c54FF,0
+678,annihilated,"V-RP @OZRP_ ?MV, AU, R18+?",*to Luka* They should all die! All of them! Everything annihilated! - Alois Trancy,0
+679,annihilated,"Greater Manchester, UK",@ACarewornHeart Have a good un fella sorry I won't be there to get annihilated with you :(,0
+680,annihilated,Boston,Cop pulls drunk driver to safety SECONDS before his car is hit by train. http://t.co/tHrhKHOGcUåÊ http://t.co/tZSZmF2qxE via @ViralSpell,1
+681,annihilated,,You must be annihilated!,0
+682,annihilated,,Cop pulls drunk driver to safety SECONDS before his car is hit by train. http://t.co/C0nKGp6w03åÊ http://t.co/IMWmfDJSSn via @ViralSpell,1
+683,annihilated,The Canopy Kingdom,BOOM! Your country was just entirely annihilated by a hÛ_ ÛÓ Britain https://t.co/IrFCn71sZv,0
+684,annihilated,,@AmirKingKhan you would have been annihilated so you might as well thank @FloydMayweather,0
+685,annihilated,USA,One thing for sure-God has promised Israel will not be annihilated. But...the horror of Iran w/nukes. https://t.co/xn09Mx6sxy,0
+686,annihilated,,@violentfeminazi I guess that's ok for Armenians since we've spent most of our history getting annihilated,1
+687,annihilated,,70 years since we annihilated 100000 people instantly and became aware that we have the ability to annihilate the whole of humanity,1
+688,annihilated,the own zone layer ,day 1 of tryouts went good minus the fact I stopped quickly to get a short ball and Annihilated my toenail injury even more,0
+689,annihilated,London,"During the 1960s the oryx a symbol of the Arabian Peninsula were annihilated by hunters.
+http://t.co/yangEQBUQW http://t.co/jQ2eH5KGLt",1
+690,annihilated,Trancy Manor,(To Luka) 'They should all die! All of them! Everything annihilated!' - Alois Trancy -,0
+691,annihilated,,Ready to get annihilated for the BUCS game,1
+692,annihilated,South 37,@PhilipDuncan @breakfastone People 'annihilated by last nights weather'... Really Philip thought you would have forecast that...,1
+693,annihilated,,Domain other sophistication be annihilated closely up-to-the-minute feat: ZrNf,0
+694,annihilated,"West Lancashire, UK.",@stormbeard @steel_lord I seen Judas Priest in 2005 when Rob came back; Scorpions as support. Fucking annihilated the place. Astonishing gig,0
+695,annihilated,PA,Officially skipping out on #FantasticFour/#Fant4stic/whatever the hashtag is. It's getting ANNIHILATED in reviews. Bummer.,0
+696,annihilated,,@TomcatArts thus explaining why you were all annihilated. But the few or in this case you the only survivor evolved and became godlike,1
+697,annihilated,Û¢ Views From The Six Û¢,just completely annihilated cech with paul keegan what a time to be alive,0
+698,annihilated,,@TomcatArts 'who then were annihilated by the legion itself. The survivors of the imperfect hybrid project quickly formed a new secret cell,0
+699,annihilated,University of Toronto,@SirBrandonKnt exactly. That's why the lesnar/cena match from summerslam last year was so great because Brock annihilated a guy who's,0
+700,annihilated,,Cop pulls drunk driver to safety SECONDS before his car is hit by train. http://t.co/F1BAkpNyn6åÊ http://t.co/lZXwoAyE4x via @ViralSpell,1
+701,annihilated,Swaning Around,"ANNIHILATED IN DAMASCUS: SYRIAN ARMY GRINDS Û÷ALLOOSH AND HIS GANG INTO THE MANURE PILE
+http://t.co/7rakhP3bWm",1
+702,annihilated,,@thatdes ok i wasn't completely forthright i may have also been in a food coma bc of the kebab/tahini/pickles i also annihilated w/fries,0
+703,annihilated,London,A fun filled happy-hour at Simmons bar in Camden with this handsome one ?? (I got annihilated apart from this game) http://t.co/4JNo677Zkv,0
+704,annihilated,Albany/NY,Juanny Beisbol Sr. Annihilated that ball. #LGM,0
+705,annihilation,"California, USA",@rvfriedmann Hell is just a fraction of his belief of total annihilation destruction of USA @LodiSilverado @ritzy_jewels,1
+706,annihilation,,@POTUS Maybe we should call Israel and tell them we're sorry are Pres has sold them down the river to annihilation.,0
+707,annihilation,,Evildead - Annihilation of Civilization http://t.co/sPfkE5Kqu4,0
+708,annihilation,,U.S National Park Services Tonto National Forest: Stop the Annihilation of the Salt River Wild Horse... http://t.co/6LoJOoROuk via @Change,0
+709,annihilation,Wild Wild Web,annihilating quarterstaff of annihilation,1
+710,annihilation,Subconscious LA,World Annihilation vs Self Transformation http://t.co/pyehwodWun Aliens Attack to Exterminate Humans http://t.co/pB2N77nSKz,0
+711,annihilation,Spain,:StarMade: :Stardate 3: :Planetary Annihilation:: http://t.co/I2hHvIUmTm via @YouTube,1
+712,annihilation,,U.S National Park Services Tonto National Forest: Stop the Annihilation of the Salt River Wild Horse... https://t.co/m8MvDSPJp7 via @Change,0
+713,annihilation,CA physically- Boston Strong?,U.S National Park Services Tonto National Forest: Stop the Annihilation of the Salt River Wild Horse... https://t.co/sW1sBua3mN via @Change,1
+714,annihilation,"Yeezy Taught Me , NV",@KimKardashian can you please sign and share this petition to save wild horses in Arizona. http://t.co/3tsSXPHuFE ????,0
+715,annihilation,,U.S National Park Services Tonto National Forest: Stop the Annihilation of the Salt River Wild Horse... http://t.co/KPQk0C4G0M via @Change,1
+716,annihilation,CA physically- Boston Strong?,@TheEllenShow Please check into Salt River horses help stop the annihilation about to happen without 54000 more signatures.change .org Thx,0
+717,annihilation,United States,Are souls punished withåÊannihilation? http://t.co/c1QXJWeQQU http://t.co/Zhp0SOwXRy,0
+718,annihilation,,@CalFreedomMom @steph93065 not to mention a major contributor to the annihilation of Israel,1
+719,annihilation,,@willienelson We need help! Horses will die!Please RT &amp; sign petition!Take a stand &amp; be a voice for them! #gilbert23 https://t.co/e8dl1lNCVu,1
+720,annihilation,"Rock Hill, SC",I reject the laws of the misguided false prophets imprison nations fueling self annihilation,0
+721,annihilation,"Coolidge, AZ",U.S National Park Services Tonto National Forest: Stop the Annihilation of the Salt River Wild Horse... https://t.co/MatIJwkzbh via @Change,0
+722,annihilation,Republic of Texas,"The annihilation of Jeb Christie &amp; Kasich is less than 24 hours away..
+Please God allow me at least one more full day...",0
+723,annihilation,,@Barbi_Twins We need help-horses will die! Please RT &amp; sign petition! Take a stand &amp; be a voice for them! #gilbert23 https://t.co/e8dl1lNCVu,0
+724,annihilation,,@Whippenz We need help! Horses will die!Please RT &amp; sign petition!Take a stand &amp; be a voice for them! #gilbert23 https://t.co/e8dl1lNCVu,0
+725,annihilation,"Phoenix, AZ",Hey #AZ: Sign this petition to save the #WildHorses @ #TantoNationalForest! A @RollingStones sing-a-long is in order: http://t.co/WM5l8PJ2iY,0
+726,annihilation,"Ljubljana, Slovenia",Stop the Annihilation of the Salt River Wild Horses! http://t.co/wVobVVtXKg via @Change,1
+727,annihilation,Connecticut,@SonofBaldwin and he's the current Nova in the bookslast I checked..he was tied into the books in 2011 after Rider died during Annihilation,0
+728,arsonist,Bleak House,Arson suspect linked to 30 fires caught in Northern California http://t.co/mmGsyAHDzb,1
+729,arsonist,heccfidmss@gmail.com,@local_arsonist @diamorfiend the legal system NEVER forgets,0
+730,arsonist,ss,@Casper_rmg u on dick,0
+731,arsonist,toronto,Bloor/Ossington arsonist also burned a mattress on Northumberland St #cbcto http://t.co/wpDvT31sne,0
+732,arsonist,[ Blonde Bi Fry. ],'wHeRE's mY aRsOnISt aT???',0
+733,arsonist,America,If you don't have anything nice to say you can come sit with me.,0
+734,arsonist,NYC :) Ex- #Islamophobe,#Vegetarian #Vegan Video shows arsonist torching popular BK restaurant Strictly Vegetarian... http://t.co/kxpLYoM9RR #GoVegan #UniteBlue,0
+735,arsonist,SF Bay Area,#Arsonist arrested for setting many fires. WATCH tonightÛªs other #headlines: http://t.co/sqgogJ3S5r. #Nightbeat @VeronicaDLCruz #2MinuteMix,1
+736,arsonist,"Orange County, California",Video Captures Man Removing American Flag From Long Beach CA Home Burning It; Arsonist Sought http://t.co/JP2QlrunjJ http://t.co/jbpgkGOwSi,0
+737,arsonist,ss,@58hif my trick is to think about nasty things,0
+738,arsonist,"Winston Salem, North Carolina",#Spotlight Take Me To Paradise by Arsonist MC #WNIAGospel http://t.co/1he4UfaWZm @arsonistmusic http://t.co/BNhtxAEZMM,0
+739,arsonist,ss,who makes these? http://t.co/28t3NWHdKy,0
+740,arsonist,,on town of salem i just melted ice cube bc im the arsonist :D,0
+741,arsonist,"Adelaide, South Australia",Arsonists being blamed for a blaze at a plastics recycling business in Adelaide | @pcaldicott7 reports. #7NewsAdl http://t.co/r1Xwdnvb0g,0
+742,arsonist,ss,i be on that hotboy shit,0
+743,arsonist,"WASHINGTON,DC",Zodiac Girl feat Trey Dupree (Produced By Sparkz Beatz) | Chuck Da Arsonist http://t.co/HDKd9J2lw0,0
+744,arsonist,,@local_arsonist LMFAO,0
+745,arsonist,California,Alleged East Bay serial arsonist arrested #SanFrancisco - http://t.co/ojuHfkHVb2,1
+746,arsonist,ss,@_Doofus_ @diamorfiend im jokin still cant be on moves:/,0
+747,arsonist, snapchat // fvck_casper ,@local_arsonist I guess u can say that it's just some shit I was thinking about,0
+748,arsonist,New York,Arsonist Sets NYC Vegetarian Restaurant on Fire: Police #NewYork - http://t.co/Nr7usT3uh8,1
+749,arsonist,,I liked a @YouTube video from @slimebeast http://t.co/ulr6MyklnH Town of Salem | How to Win as The Arsonist,0
+750,arsonist,ss,@Casper_rmg @BestComedyVine whats cracking cuz,0
+751,arsonist,ss,smoke good fuck eat drink drive nice car wear all green mink,0
+752,arsonist,ss,kill i got court the day after earl,0
+753,arsonist,,@local_arsonist lmao but real live you should go,0
+754,arsonist,United States,Owner of Chicago-Area Gay Bar Admits to Arson Scheme: Frank Elliott pleaded guilty to hiring an arsonist to to... http://t.co/jCFEhrHLq8,0
+755,arsonist,,Trusting Iran to stop terrorism is like inviting an arsonist to join the fire brigade - Telegraph http://t.co/2Z2HTDjQZD,0
+756,arsonist,,Big Top Burning The True Story Of An Arsonist A Missing Girl Û_ : http://t.co/QxH1H61cwD .,1
+757,attack,"Dallas, TX",Stay vigilent. Civil liberties are under constant attack. #nativehuman #myreligion  https://t.co/WWu070Tjej,1
+758,attack,NYC,Credit to @pfannebeckers for inspiring me to rediscover this fantabulous #tbt http://t.co/wMHy47xkiL,0
+759,attack,,http://t.co/pTKrXtZjtV  Nashville Theater Attack: Will Gun Grabbers Now Demand ÛÏHatchet Control?Û,1
+760,attack,Location,"BREAKING: Terror Attack On
+Police Post #Udhampur",1
+761,attack,Selena | Britney | Hilary,Demi stans really think Heart Attack sold 5/6 million copies ??,0
+762,attack,,it scares me that there's new versions of nuclear attack warnings like just knowing that governments still prepare for them,1
+763,attack,,ISIL claims suicide bombing at Saudi mosque that killed at least 15 http://t.co/Y8IcF89H6w http://t.co/t9MSnZV1Kb,1
+764,attack,Ireland,@DatTomm the funniest part about that twitter is the feminists that try to attack it 4Head,0
+765,attack,Freeport IL. USA,Horrific attack on wife by muslim in Italy http://t.co/nY3l1oRZQb LiveLeak #News,1
+766,attack,,Ûª93 blasts accused Yeda Yakub dies in Karachi of heart attack http://t.co/mfKqyxd8XG #Mumbai,1
+767,attack,Dubai,@etribune  US Drone attack kills 4-suspected militants in North Waziristan @AceBreakingNews https://t.co/jB038rdFAK,1
+768,attack,"Tucson, Az",Suspect in latest theater attack had psychological issues http://t.co/3huhZxliiG,1
+769,attack,India,Militants attack police post in Udhampur; 2 SPOs injured | LiveMint http://t.co/Rptouz2iJs | http://t.co/69mLhfefhr #AllTheNews,1
+770,attack,Seattle WA,BREAKING: Obama Officials GAVE Muslim Terrorist the Weapon Used in Texas Attack http://t.co/qi8QDw5dFG,1
+771,attack,,Delhi Government to Provide Free Treatment to Acid Attack Victims in Private Hospitals http://t.co/H6PM1W7elL,1
+772,attack,Bellevue NE,New post from @darkreading http://t.co/8eIJDXApnp New SMB Relay Attack Steals User Credentials Over Internet,1
+773,attack,"West Bank, Gaza Strip",Israeli forces raid home of alleged car attack suspect http://t.co/3GVUS8NPpy #palestine,1
+774,attack,Û¢FLGÛ¢,Just had a heart attack because I thought my goat was dead. ???? don't worry Rocket is okay. ??,0
+775,attack,,I'm not gonna lie I'm kinda ready to attack my Senior year ??????????,0
+776,attack,"Scotland, United Kingdom","'Left hand side of a diamond is a graveyard shift have to attack and defend'
+The right handside no have to do that too you fucking idiot?",0
+777,attack,,#volleyball Attack II Volleyball Training Machine - Sets Simulation - http://t.co/dCDeCFv934 http://t.co/dWBC1dUvdk,1
+778,attack,Online 24/7. Not even kidding.,Notley's tactful yet very direct response to Harper's attack on Alberta's gov't. Hell YEAH Premier! http://t.co/rzSUlzMOkX #ableg #cdnpoli,1
+779,attack,,Police: Assailant in latest US movie theatre attack was homeless had psychological issues http://t.co/zdCvlYq6qK,1
+780,attack,rowyso dallas ,@CaIxxum5SOS thanks for the damn heart attack,0
+781,attack,"Halton, Ontario",Suspect in latest US theatre attack had psychological issues http://t.co/OnPnBx0ZEx http://t.co/uM5IcN5Et2,1
+782,attack,Mumbai,India shud not give any evidence 2 pak.They will share with terrorists &amp; use for next attack.Share with oth contries https://t.co/qioPbTIUVu,1
+783,attack,"portland, oregon",illegal alien released by Obama/DHS 4 times Charged With Rape &amp; Murder of Santa Maria CA Woman Had Prior Offenses  http://t.co/MqP4hF9GpO,1
+784,attack,FIMAK A.S Ist Bolge Muduru,Strongly condemn attack on ARY news team in Karachi. A cowardly act against those simply trying to do their job!,1
+785,attack,,Nashville Theater Attack: Will Gun Grabbers Now Demand ÛÏHatchet Control?Û  http://t.co/OyoGII97yH,1
+786,attack,London.,The fact that the atomic bombs were called 'Little Boy' and 'Fat man' says a lot about the mentality that went into the attack.,1
+787,attack,#UNITE THE BLUE  ,@blazerfan not everyone can see ignoranceshe is Latinoand that is All she can ever benothing morebut an attack dog 4 a hate group GOP,0
+788,attack,,Heart disease prevention: What about secondhand smoke? http://t.co/YdgMGBrYL2,0
+789,attack,"Dayton, Ohio",A Dayton-area org tells me it was hit by a cyber attack: http://t.co/7LhKJz0IVO,1
+790,attack,,Attack on Titan game on PS Vita yay! Can't wait for 2016,0
+791,attack,Global,[infowars]  Nashville Theater Attack: Will Gun Grabbers Now Demand ÛÏHatchet Control?Û http://t.co/n3yJb8TcPm #nwo,1
+792,attack,ph,anxiety attack ??,0
+793,attacked,"Port Jervis, NY",My dog attacked me for my food #pugprobs,0
+794,attacked,City Of Joy,Cop injured in gunfight as militants attack Udhampur police post: Suspected militants attacked a police post i... http://t.co/2h0dPMv2Ef,1
+795,attacked,"Los Angeles, CA",@envw98 @NickCoCoFree @JulieDiCaro @jdabe80 I asked how did he feel attacked by julie.  I asked if he was frail.   That is all.,0
+796,attacked,"Texas, USA",@messeymetoo I feel attacked,0
+797,attacked,1/3 of the blam squad ,I'm feeling so attacked https://t.co/CvkQiGr1AZ,0
+798,attacked,CCH ,Once again black men didn't make it that way. White men did so why are black men getting attacked  https://t.co/chkP0GfyNJ,0
+799,attacked,atx,I cant believe a fucking cis female is going to somehow claim to be offended over a transgendered female who's been attacked by media,0
+800,attacked,MAURITIUS,Israeli helicopters that attacked civilians in Gaza just completed exercises in Greece.,1
+801,attacked,AKRON OHIO USA,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/5qYcZyWKgG,1
+802,attacked,,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/U0kEOe5fMt,1
+803,attacked,,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/f5MiuhqaBy,1
+804,attacked,,#PT: The unit attacked by IS was responsible for targeting Muslim Scholars and imprisoning the youth. http://t.co/f4LhfmEhzh,1
+805,attacked,,Telnet attacked from 124.13.172.40 (STREAMYX-HOME-SOUTHERN MY),1
+806,attacked,London,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/wGWiQmICL1,1
+807,attacked,london / st catharines ?,#TBT Remember that time Patrick Kane attacked a cab driver over .20,0
+808,attacked,,im feeling attacked http://t.co/91jvYCxXVi,0
+809,attacked,Peshawar,IK Only Troll His Pol Rivals Never Literally Abused Them Or Attacked Their Families. While All Of Them Literally Abuse IK. Loosers,0
+810,attacked,,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/NhxSe3RTHX,1
+811,attacked,"LEALMAN, FLORIDA",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/LHBZHWq4B9,1
+812,attacked,"Los Angeles, CA",@envw98 @NickCoCoFree @JulieDiCaro @jdabe80 Why am I the worst person? Questioning how julie attacked him?  Do you guys have no empathy?,0
+813,attacked,"San Francisco, CA",Kelly Osbourne attacked for racist Donald Trump remark about Latinos on The View http://t.co/7nAgdSAdWP,1
+814,attacked,#GDJB #ASOT,@eunice_njoki aiii she needs to chill and answer calmly its not like she's being attacked,0
+815,attacked,"Groningen, Netherlands, Europe",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/mXZ7yX8ld1,1
+816,attacked,"Livingston, IL  U.S.A.",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/e4YDbM4Dx6,1
+817,attacked,Arundel ,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/T1aa5Ov7Eg,1
+818,attacked,,I attacked Robot-lvl 19 and I've earned a total of 6615434 free satoshis! http://t.co/DMLJ1aGoTw #robotcoingame #Bitcoin #FreeBitcoin,0
+819,attacked,America,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/EMDJNNltP0,1
+820,attacked,"Anna Maria, FL",@christinalavv @lindsay_wynn3 I just saw these tweets and I feel really attacked,0
+821,attacked,USA,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/a6wmbnR51S,1
+822,attacked,israel,Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/ETg0prBP4G,1
+823,attacked,"The Hammock, FL, USA",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/yUBKHf9iyh,1
+824,attacked,??????????????????,TV program I saw said US air plane flew to uranium mine in Fukushima and attacked by machine gun when student army were digging it.,1
+825,attacked,"SÌ£o Paulo SP,  Brasil",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/e4wK8Uri8A,1
+826,attacked,in Dimitri's arms,@MageAvexis &lt; things. And what if we get attacked?,0
+827,attacked,"Oslo, Norway",Christian Attacked by Muslims at the Temple Mount after Waving Israeli Flag via Pamela Geller - ... http://t.co/1pDJoq4Jc1,1
+828,avalanche,Los Angeles,#WeLoveLA #NHLDucks Avalanche Defense: How They Match vs St. Louis Blues http://t.co/9v1RVCOMH2 #SportsRoadhouse,0
+829,avalanche,"Loughton, Essex, UK",I liked a @YouTube video http://t.co/TNXQuOr1wb Kalle Mattson - 'Avalanche' (Official Video),0
+830,avalanche,guaravitas,we'll crash down like an avalanche,0
+831,avalanche,,#Colorado #Avalanche Men's Official Colorado Avalanche Reebok T-Shirt XL Blue 100% Cotton http://t.co/ZNSvsTGwx3 #NHL #Hockey,0
+832,avalanche,Score More Goals Buying @,2 TIX 10/3 Frozen Fury XVII: Los Angeles Kings v Avalanche 103 Row:AA MGM Grand http://t.co/kBtZZZG2Tp,0
+833,avalanche,NEW YORK,I BET YOU DIDNT KNOW I KICK BOX TOO! https://t.co/rBrw8pWiPJ,0
+834,avalanche,Ireland,A little piece I wrote for the Avalanche Designs blog! I'd appreciate it greatly if you checked it out :-)  https://t.co/rfvjh58eF2,0
+835,avalanche,,PATRICK ROY 1998-99 UPPER DECK SPX #171 FINITE 1620 MADE COLORADO AVALANCHE MINT http://t.co/uHfM1r3Tq5 http://t.co/QulgaKebHB,0
+836,avalanche,UK,Musician Kalle Mattson Recreates 34 Classic Album Covers in Clever Music Video for 'Avalanche' http://t.co/yDJpOpH1DW,0
+837,avalanche,"London, Kent & SE England.",Beautiful Sweet Avalanche Faith and Akito roses with lots of frothy gyp. http://t.co/RaqUpzFkJY #weddinghour http://t.co/quNxocXCgA,0
+838,avalanche,Score Team Goals Buying @,1-6 TIX Calgary Flames vs COL Avalanche Preseason 9/29 Scotiabank Saddledome http://t.co/5G8qA6mPxm,0
+839,avalanche,,Secrets up avalanche: catechize inner self for the confidential communication as respects creating worth in len...,0
+840,avalanche,"New York, NY",the fall of leaves from a poplar is as fully ordained as the tumbling of an avalanche - Spurgeon,0
+841,avalanche,South Central Wales,I saw two great punk bands making original music last week. Check em out here!! @GHOSTOFTHEAV @MontroseBand https://t.co/WdvxjsQwic,0
+842,avalanche,,GREAT PERFORMANCE CHIP FUEL/GAS SAVER CHEVY TAHOE/BLAZER/AVALANCHE/S-10 http://t.co/iCrZi5TqC5 http://t.co/ONxhKfHn2a,0
+843,avalanche,"Jersey City, New Jersey",Musician Kalle Mattson Recreates 34 Classic Album Covers in Clever Music Video for Û÷AvalancheÛª http://t.co/VBSwhz4s2V,0
+844,avalanche,,driving the avalanche after having my car for a week is like driving a tank,1
+845,avalanche,,Free Ebay Sniping RT? http://t.co/RqIPGQslT6 Chevrolet : Avalanche Ltz Lifted 4x4 Truck ?Please Favorite &amp; Share,0
+846,avalanche,"Denver, CO",Chiasson Sens can't come to deal #ColoradoAvalanche #Avalanche http://t.co/2bk7laGMa9 http://t.co/bkDGCfsuiQ,1
+847,avalanche,Brasil,Paul Rudd Emile Hirsch David Gordon Green 'Prince Avalanche' Q&amp;A | Filmmakers at Google http://t.co/e4QonKzndZ  #entretenimento #Video,0
+848,avalanche,Buy Give Me My Money ,Great one time deal on all Avalanche music and with purchase get a Neal Rigga shirt http://t.co/4VIRXkgMpC,0
+849,avalanche,"505 W. Maple, Suite 100",.@bigperm28 was drafted by the @Avalanche in 2005 (rd. 4 #124) overall. Played last season in @UtahGrizz. http://t.co/gPGTAfMKt0,0
+850,avalanche,Buy Give Me My Money ,I HAVE GOT MORE VIDEOS THAN YOU RAPPERS GOT SONGS! http://t.co/pBLvPM6C27,0
+851,avalanche,Buy Give Me My Money ,@funkflex yo flex im here https://t.co/2AZxdLCXgA,0
+852,avalanche,Philippines,You are the avalanche. One world away. My make believing. While I'm wide awake.,0
+853,avalanche,Freeport il ,The possible new jerseys for the Avalanche next year. ???? http://t.co/nruzhR5XQu,0
+854,avalanche,Canada,What a feat! Watch the #BTS of @kallemattson's incredible music video for #Avalanche: https://t.co/3W6seA9tuv ????,0
+855,avalanche,World,Avalanche City - Sunset http://t.co/48h3tLvLXr #nowplay #listen #radio,1
+856,avalanche,,Chevrolet : Avalanche LT 2011 lt used 5.3 l v 8 16 v automatic 4 wd pickup truck premium bÛ_ http://t.co/OBkY8Pc89H http://t.co/dXIRnTdSrd,1
+857,avalanche,"Danville, VA",No snowflake in an avalanche ever feels responsible.,0
+858,battle,New York,STAR WARS POWER OF THE JEDI COLLECTION 1 BATTLE DROID HASBRO - Full read by eBay http://t.co/xFguklrlTf http://t.co/FeGu8hWMc4,1
+859,battle,,CIVIL WAR GENERAL BATTLE BULL RUN HERO COLONEL 2nd NEW HAMPSHIRE LETTER SIGNED ! http://t.co/Ot0tFFpBYB http://t.co/zaRBwep9LD,1
+860,battle,,Dragon Ball Z: Battle Of Gods (2014) - Rotten Tomatoes http://t.co/jDDNhmrmMJ via @RottenTomatoes,0
+861,battle,UK Great Britain ,I added a video to a @YouTube playlist http://t.co/wedWyn9kfS World Of Tanks - Battle Assistant Mod Bat Chat Arti kaboom,0
+862,battle,NYC,"YA BOY CLIP VS 4KUS FULL BATTLE
+
+@15MofeRadio @Heavybag201 @battle_dom @QOTRING @BattleRapChris @Hughes1128
+
+https://t.co/7SPyDy1csc",0
+863,battle,Jerusalem!,Indeed!! I am fully aware of that battle! I support you in that fight!!  https://t.co/MctJnZX4H8,1
+864,battle,,It's baaaack!  Petersen's Bowhunting Battle of the Bows.  Make sure you head on over and cast your vote for your... http://t.co/FJ73gDvg2n,0
+865,battle,,"#Tb #throwback ??
+
+??~ You want a battle? Here's a War! ~ ?? https://t.co/B0ZJWgmaIW",0
+866,battle,"San Jose, CA",Kelby Tomlinson mild-mannered 2nd baseman for a great metropolitan team fights a never-ending battle for hits RBI and the #SFGiants way.,0
+867,battle,USA,Black Eye 9: A space battle occurred at Star M27329 involving 1 fleets totaling 1236 ships with 7 destroyed,1
+868,battle,San Francisco,What really happened in the Taken King Story Trailer. A space battle that ripped a hole in Saturn. @EyTay @neur0sis http://t.co/ZYRZX6dfki,0
+869,battle,,THESE AFTER BATTLE ANIMATIONS ARE SO FUCKING MUCH,0
+870,battle,"Dallas, TX",See what happens with NO Battle of the Block @CBSBigBrother!?! ???? finally,0
+871,battle,"Baton Rouge, LA",#DU19 who gon get in this rap battle with me,0
+872,battle,Use #TMW in tweets get #RT,Do Your Own Thing: The Battle of Internal vs External Motivation: http://t.co/w9P3hAuHEi,0
+873,battle,Earth,Check out this item I just got! [Phantasmal Cummerbund] http://t.co/qrHJEI7gRq #Warcraft,0
+874,battle,,A young German stormtrooper engaged in the Battle of the Somme 1916. [800 ÌÑ 582 ] http://t.co/yxvMifLvc4,1
+875,battle,,I liked a @YouTube video http://t.co/9Vw0uQQi1y Marvel VS DC (Avengers Battle!),0
+876,battle,Utah,@UtahCanary sigh daily battle.,0
+877,battle,Wisconsin,@SexyDragonMagic I've come to the realization that I just don't have the attention span for mass battle games. Both painting and playing.,0
+878,battle,"West Richland, WA",@DetroitPls interested to see who will win this battle,0
+879,battle,CHICAGO (312),Battle of the GOATS  https://t.co/ofECs6tcvC,0
+880,battle,New York,STAR WARS POWER OF THE JEDI COLLECTION 1 BATTLE DROID HASBRO - Full read by eBay http://t.co/yI30ZgiZsW http://t.co/2jGVhw7YZs,0
+881,battle,USA,Black Eye 9: A space battle occurred at Star O784 involving 2 fleets totaling 4103 ships with 50 destroyed,0
+882,battle,Australia,"#LonePine remembered around Australia as 'descendants' grow via @666canberra #Gallipoli #WW1
+http://t.co/T4fvVnRPc5 http://t.co/0zZnbVFUVO",0
+883,battle,California,how did I miss that Gary Busey's son plays DIXIE on his electronic green fiddle during the post-battle celebration sequence,0
+884,bioterror,Washington D.C.,News: FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/xteZGjfs8A,1
+885,bioterror,NC,FedEx no longer will transport bioterror germs http://t.co/qfjjDxes7G via @USATODAY,0
+886,bioterror,,USA TODAY: .@FedEx will no longer to transport bioterror pathogens after ... - http://t.co/iaDlSlqdpd #NewsInTweets http://t.co/o8y1suL4Ow,0
+887,bioterror,"West Virginia, USA",FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/HQsU8LWltH via @usatoday,1
+888,bioterror,,Jacksonville Busines FedEx stops shipping potential bioterror pathogens http://t.co/sHzsYmaUSi,1
+889,bioterror,British girl in Texas,FedEx will no longer transport bioterror pathogens in wake of anthrax lab mishaps http://t.co/lHpgxc4b8J,0
+890,bioterror,"Silver Spring, MD",.@APHL responds: FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/cGdj3dRso9,1
+891,bioterror,USA,#News FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps (say what?): åÊFedEx no... http://t.co/K0Y7xFxmXA #TCOT,1
+892,bioterror,"Phoenix, AZ",FedEx to stop transporting bioterror germs after lab mishaps: FedEx has stopped transporting certain research ... http://t.co/y3dM9uLqxG,1
+893,bioterror,"Atlanta, GA",FedEx no longer will ship potential bioterror pathogens http://t.co/CHORr2XOVp via @AtlBizChron,0
+894,bioterror,"Manhattan, NY",#frontpage: #Bioterror lab faced secret sanctions. #RickPerry doesn't make the cut for @FoxNews #GOPDebate http://t.co/fZujg7sXJg @USATODAY,0
+895,bioterror,"Wilmington, DE",FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/qZQc8WWwcN via @usatoday,0
+896,bioterror,,House Energy &amp;amp; Commerce subcommittee to hold 7/28 hearing of CDC oversight of bioterror labs Army anthrax mishaps. httÛ_,1
+897,bioterror,Memphis,FedEx not willing to transport research specimens of potential bioterror pathogens in wake of anthrax lab mishaps  http://t.co/cM8UnI1mRG,1
+898,bioterror,iTunes,#world FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps  http://t.co/wvExJjRG6E,1
+899,bioterror,,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/P96rgBbaYL #news #phone #apple #mobile,1
+900,bioterror,United States,RT alisonannyoung: EXCLUSIVE: FedEx no longer to transport research specimens of bioterror pathogens in wake of anthrax lab mishaps Û_,0
+901,bioterror,"Oxford, MS",Hmm...this could be problem for some researchers: FedEx no longer to transport select agents http://t.co/9vIibxgjAV via @usatoday,1
+902,bioterror,,#world FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps  http://t.co/5zDbTktwW7,0
+903,bioterror,US,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/pWAMG8oZj4,1
+904,bioterror,"Atlanta, GA",FedEx no longer will ship potential bioterror pathogens - FedEx Corp. (NYSE: FDX) will no longer deliver packages ... http://t.co/2kdq56xTWs,1
+905,bioterror,,FedEx no longer will ship potential bioterror pathogens - Atlanta Business Chronicle http://t.co/YLLQJljiIQ,0
+906,bioterror,"Pelham, AL","Thank you @FedEx for no longer shipping live microbes for the Department of Defense
+
+http://t.co/zAHNEwJrI8",0
+907,bioterror,New York,#NowPlaying at #orchardalley in #LES of #nyc 'bioterror- manufactured fear and state repression' @abcnorio #gardens http://t.co/Ba2rRXUgsG,1
+908,bioterror,"Atlanta, GA",FedEx no longer will transport bioterror germs http://t.co/SHrhkfj1bC via @usatoday,0
+909,bioterror,"Jacksonville, FL",[JAX Biz Journal] FedEx stops shipping potential bioterror pathogens http://t.co/R33nCvjovC,1
+910,bioterror,"Arkansas, Jonesboro",USATODAY: On today's #frontpage: #Bioterror lab faced secret sanctions. #RickPerry doesn't make the cut for FoxNewÛ_ http://t.co/5uKOHk7SoB,1
+911,bioterror,Across the Atlantic,#BreakingNews http://t.co/gAN14PW9TG FedEx no longer willing to transport research specimens of potential bioterÛ_ http://t.co/5n4hUsewLy,0
+912,bioterror,"Melbourne, Florida",FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/c0p3SEsqWm via @usatoday,1
+913,bioterror,Worldwide,FedEx stops shipping potential bioterror pathogens http://t.co/tkeOAeDQKq #trucking,1
+914,bioterror,,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/MqbYrAvK6h,1
+915,bioterror,Over the Moon...,#FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/S4SiCMYRmH,1
+916,bioterror,Extraterrestrial Highway,FedEx no longer shipping bioterror germs - WXIA-TV | @scoopit http://t.co/ZQqJrQsbJm,0
+917,bioterror,,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/hrqCJdovJZ,0
+918,bioterror,"Espoo, Finland",USATODAY: On today's #frontpage: #Bioterror lab faced secret sanctions. #RickPerry doesn't make the cut for FoxNewÛ_ http://t.co/xFHh2XF9Ga,1
+919,bioterror,,FedEx no longer to transport bioterror germs in wake of anthrax lab mishaps http://t.co/4M5UHeyfDo via @USATODAY,1
+920,bioterror,"Washington, D.C., area",Biolab safety concerns grow: FedEx stops transporting certain specimens. Research facilities 'dumbfounded' by action. http://t.co/RUjV4VPnBV,0
+921,bioterrorism,,To fight bioterrorism sir.,1
+922,bioterrorism,OES 4th Point. sisSTAR & TI,I liked a @YouTube video http://t.co/XO2ZbPBJB3 FEMA REGION III TARGETED for BIOTERRORISM !!! NASA - JAPAN ROCKET LAUNCH with LITHIUM,1
+923,bioterrorism,"Sydney, New South Wales",#anthrax #bioterrorism CDC To Carry Out Extensive Review of Lab Safety And Pathogen Handling Procedures http://t.co/bCLqpWFDOd,1
+924,bioterrorism,,Firepower in the lab [electronic resource] : automation in the fight against infectious diseases and bioterrorism /Û_ http://t.co/KvpbybglSR,0
+925,bioterrorism,,@CAgov If 90BLKs&amp;8WHTs colluded 2 take WHT F @USAgov AUTH Hostage&amp;2 make her look BLK w/Bioterrorism&amp;use her lgl/org IDis ID still hers?@VP,1
+926,bioterrorism,,@DarrellIssa Does that 'great Iran deal' cover bioterrorism? You got cut off terrible of them. Keep up the good work.,1
+927,bioterrorism,"San Francisco, CA",A Tale of Two Pox - Body Horrors http://t.co/W2IXT1k0AB #virus #infectiousdiseases #bioterrorism,1
+928,bioterrorism,,Bioterrorism public health superbug biolabs epidemics biosurveillance outbreaks | Homeland Security News Wire http://t.co/cvhYGwcBZv,1
+929,bioterrorism,,"Creation of AI
+Climate change
+Bioterrorism
+Mass automation of workforce
+Contact with other life
+Wealth inequality
+
+Yea we've got it easy",0
+930,bioterrorism,"Netherlands,Amsterdam-Virtual ",In Lies We Trust #dvd CIA Hollywood and Bioterrorism Len Horowitz Vaccines Nwo http://t.co/6PAGJqfbzK http://t.co/qzizElxbyr,0
+931,bioterrorism,,@O_Magazine satan's daughter shadow warrior in 50ft women aka transgender mode ps nyc is about to fold extra extra center of bioterrorism,1
+932,bioterrorism,New York City,@DrRichardBesser Yes. I would think not. But since college 88-92 it's been difficult not to think of bioterrorism esp. bc 'dispersed.',1
+933,bioterrorism,"Hudson Valley, NY",Volunteers needed to participate in Emergency Preparedness drill simulating a bioterrorism disaster: http://t.co/NWV2RvGHf3 @HVnewsnetwork,1
+934,bioterrorism,"Philadelphia, PA",@MeyerBjoern @thelonevirologi @MackayIM of a major American newspaper running a series on all the alleged bioterrorism research going on 2/n,1
+935,bioterrorism,,To fight bioterrorism sir.,0
+936,bioterrorism,,CDC has a pretty cool list of all bioterrorism agents :3,1
+937,bioterrorism,timeline kamu,Government Experts Concerned About Possible Bioterrorism Using GM Organisms: Scientists are concerned that the... http://t.co/SuMe5prO0F,1
+938,bioterrorism,,Does This Prepare Us? HHS Selects 9 Regional Special #Pathogen Treatment Centers #Bioterrorism #Infectious #Ebola http://t.co/Qmo1TxxDkj,0
+939,bioterrorism,,@StationCDRKelly Any Support Sys 4 @USAgov AUTH taken Hostage by BLK US clergyforced 2 exist younger&amp;grossly disfigured by BIOTERRORISM?@AP,1
+940,bioterrorism,,70 won 70...&amp; some think possibility of my full transformation is impossible.  I don't quite like medical mysteries. BIOTERRORISM sucks.,0
+941,bioterrorism,,To fight bioterrorism sir.,1
+942,bioterrorism,"Budapest, Hungary",How about a book describing the future of therapies technologies sport sexuality bioterrorism and diagnosis? #digitalhealth #hcsm,0
+943,bioterrorism,,@APhiABeta1907 w/ugliness due 2 your 'ugly'@AMESocialAction Frat's BIOTERRORISMI'm she who's @FBI ID U $tolewant'g another in my Home.@ABC,1
+944,bioterrorism,,@HowardU If 90BLKs&amp;8WHTs colluded 2 take WHT F @USAgov AUTH Hostage&amp;2 make her look BLK w/Bioterrorism&amp;use her lgl/org IDis ID still hers?,1
+945,bioterrorism,,To fight bioterrorism sir.,0
+946,bioterrorism,,@cspanwj If 90BLKs&amp;8WHTs colluded 2 take WHT F @USAgov AUTH Hostage&amp;2 make her look BLK w/Bioterrorism&amp;use her lgl/org IDis ID still hers?,1
+947,bioterrorism,,@ONU_France 74/75 Bioterrorism on '@Rockefeller_Chi/@RockefellerUniv'Heiress 2 evade lgl efforts 2 prosecute BLKs 4 @HarvardU kidnap'g.@AFP,0
+948,bioterrorism,,The #IranDeal only covers nuclear activity. What are they doing about Bioterrorism? Iran has broken at least 27 other agreements.,1
+949,bioterrorism,Searching for Bae ,The Threat | Anthrax | CDC http://t.co/q6oxzq45VE via @CDCgov,1
+950,bioterrorism,"Sydney, New South Wales",#bioterrorism Authorities allay #glanders fears ahead of Rio Olympic equestrian test event http://t.co/UotPNSQpz5 via @HorsetalkNZ,1
+951,blaze,California,@Kaotix_Blaze craving u,0
+952,blaze,,I've been by the pool all day #raisinfingers,0
+953,blaze,,Do you know anyone looking to move to Hammond OR? Share this listing! http://t.co/3xn1soh4Bb,0
+954,blaze,,Life is amazin same time its crazy niggas dey wanna blaze me hate it because i made it all it took was dedication n some motivation,0
+955,blaze,"Eagle Mountain, Texas ",Blaze is my bro http://t.co/UdKeSJ01mL,0
+956,blaze,Columbus,@Shayoly yes I love it,0
+957,blaze,,See a virtual tour of one of our listings on 547 Fir St Cannon Beach OR listed by Dorrie Caruana. http://t.co/nF46PAYTvw,0
+958,blaze,"Temecula, CA",Pendleton media office said only fire on base right now is the Horno blaze.,1
+959,blaze,"Atlanta,Ga",Welcome @djryanwolf @djcoreygrand @djknyce @djoneplustwo @OfficialCoreDJs #Family #Cleveland #StandUp @IAMTONYNEAL http://t.co/P6GqmCTgLj,0
+960,blaze,"Fresno, CA",Love living on my own. I can blaze inside my apt or on the balcony,1
+961,blaze,,@bellalinn alrighty Hit me up and we'll blaze!!,0
+962,blaze,,i blaze jays fuck the dutch slave trade.,0
+963,blaze,,My hair is poverty at the moment need to get a fade before the weekend gets here,0
+964,blaze,Australia,Property losses from California wildfire nearly double as week-old blaze rages http://t.co/E0UUsnpsq5,1
+965,blaze,"Raleigh Durham, NC",#breaking Firefighters battling blaze at east Cary condo building http://t.co/mIM8hH2ce6,1
+966,seismic,Somalia,Oil and Gas Exploration Takes Seismic Shift in Gabon to Somalia - Bloomberg http://t.co/bEKrPjnYHs #??????? #Somalia,1
+967,seismic,"Bokaro Steel City, Jharkhand","@kakajambori ??
+U control the future of india..
+Yor Subject: Exploration or seismic Maintenance( Electrical or Mechanical)",0
+968,seismic,,#Sismo DETECTADO #JapÌ_n [Report 3] 01:02:17 Okinawa Island region M3.8 Depth 10km Maximum seismic intensity 3 JST #??,1
+969,seismic,"Hatteras, North Carolina",Agency seeks comments on seismic permits http://t.co/9Vd6x4WDOY,0
+970,seismic,412 NW 5th Ave. Portland OR,Still no plans? Don't worry we got you covered. Plenty of Seismic IPA and Seismic Squeeze Radler to help... http://t.co/A8nMdkd3rV,0
+971,seismic,"Madison, Wisconsin, USA",#OilandGas Exploration Takes Seismic Shift in #Gabon to #Somalia http://t.co/oHHolJ9vEV via @business,1
+972,seismic,"Mogadishu, Somalia","Exploration Takes Seismic Shift in #Gabon to #Somalia
+http://t.co/Ltf6jL5keU http://t.co/Zlq8tHcTkW",1
+973,seismic,the azure cloud,New post from @SeismicSoftware: 3 Major Challenges of Channel Sales Enablement http://t.co/kWMRCEkVTF,0
+974,seismic,"Perenjori, WA",Panoramic Resources cuts jobs after seismic event http://t.co/mUwmfJGzYh,1
+975,seismic,UK,ENGLAND EAST COAST. Dogger Bank Westward. 1. Seismic survey in progress by M/V Western Regent towing a 8400 metre long cable within areaÛ_,0
+976,seismic,,A subcontractor working for French seismic survey group CGG has been kidnapped in Cairo and is held by Islamic State the company said on WÛ_,1
+977,seismic,,The Art World's Seismic Shift Back to the Oddball - Observer http://t.co/W0xR5gP8cW,0
+978,seismic,,#Sismo DETECTADO #JapÌ_n 06:32:43 Miyagi Estimated seismic intensity 0 JST #??,1
+979,sinkhole,Unknown ,"Sinkhole Selfies: You Wont Believe What's In The Brooklyn Sinkhole!:
+        Sinkhole Selfies: You Wont Belie... http://t.co/A3b5n3rcr5",0
+980,sinkhole,,MRW when a sinkhole opens up beneath my friends and I... #gif #funny #lol #comedy #iFunny #video #image #RT http://t.co/XiYdYfptru,1
+981,sinkhole,"Atlanta(ish), GA",Talk on GOZ is fantastic. Most interesting fact so far is that they manually bought all the .ru domains to sinkhole rather than seek co-op.,0
+982,sinkhole,Trinidad and Tobago,nothing surprises me anymore and i am sure there is more to come... http://t.co/zdpvQmEezS,0
+983,sinkhole,Above the snake line - #YoNews,Large sinkhole swallows entire pond in Lowndes County Georgia: Large sinkholeÛ_ http://t.co/bCLDQmMEHg #Occasion2B,1
+984,sinkhole,San Diego,10News ? Water main break disrupts trolley service http://t.co/pAug7a68i0,1
+985,sinkhole,"Haddonfield, NJ",Sinkhole closes Falmer Drive in Bethlehem Township http://t.co/6TVVlG2fNi,1
+986,sinkhole,,A sinkhole grows in Brooklyn: six-meter crater swallows street http://t.co/gkPrvzQ6lk,1
+987,sinkhole,Canada,@Azimel 'Screaming Mad Scientist deceased after tumbling over heels and falling into sinkhole during investigation',0
+988,sinkhole,NY,Gaping sinkhole opens up in Brooklyn New York http://t.co/0xA6FCjyec,1
+989,sinkhole,ill yorker,ÛÏ@FDNY: This morning #FDNY responded to a sinkhole in #Brooklyn. Units remain on-scene with @NYCBuildings &amp; others. http://t.co/M78ir0IK01Û,1
+990,sinkhole,Newcastle,"150-Foot Sinkhole Opens in Lowndes County Residential Area
+WCTV-35 minutes ago",1
+991,sinkhole,Above the snake line - #YoNews,Large sinkhole swallows entire pond in Lowndes County Georgia http://t.co/wKPzp1JCAu #YoNews,1
+992,sinkhole,"White Plains, NY",I've been trying to write a theological short story about a monster living in a sinkhole. Then I heard about Brooklyn. #accidentalprophecy,0
+993,sinkhole,,Sinkhole Selfies: You Wont Believe What's In The Brooklyn Sinkhole! http://t.co/3gLYOyf6Oc,0
+994,sinkhole,B&B near Alton Towers,@MoorlandsChmbr Loads of stuff going on recently. See the blog at http://t.co/XVcO7sLxhW #sinkhole #piling http://t.co/jbVmGeg522,0
+995,sinkhole,,150-Foot Sinkhole Opens in Lowndes County Residential Area http://t.co/0YAxrJICRR,1
+996,sinkhole,Alger-New York-San Francisco,#SanDiego #News Sinkhole Disrupts Downtown Trolley Service: The incident happened Wed... http://t.co/RVMMuT3GvC #Algeria #???????,1
+997,sinkhole,,beforeitsnews : A sinkhole grows in Brooklyn: six-meter crater swallows street Û_ http://t.co/QWo7q1AMh8) http://t.co/esRkmazEq9,1
+998,sinkhole,,Massive Sinkhole Emerges In Brooklyn http://t.co/n3Ow73Oasw http://t.co/Gs9bmplbHH,1
+999,sinkhole,Êwagger!ÌominicanÌ÷,#LoMasVisto THOUSANDS OF HIPSTERS FEARED LOST: Giant Sinkhole Devours Brooklyn Intersectio... http://t.co/qwtk1b2fMC #CadenaDeSeguidores,1
+1000,sinkhole,"Haddonfield, NJ",150-Foot Sinkhole Opens In Lowndes County Residential Area http://t.co/cBAxCuBA0h,1

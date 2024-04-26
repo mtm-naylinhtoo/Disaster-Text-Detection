@@ -1,0 +1,7 @@
+Flask
+Unidecode
+contractions
+gunicorn
+sklearn
+nltk
+scikit-learn

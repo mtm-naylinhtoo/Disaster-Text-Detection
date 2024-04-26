@@ -1,0 +1,40 @@
+<html>
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename = 'css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ url_for('static', filename = 'css/style.css') }}">
+<link href="https://fonts.googleapis.com/css?family=Your+Font+Family" rel="stylesheet">
+
+<title>Disaster Detection</title>
+</head>
+<body>
+
+<div class='container'>
+
+{% if error %}
+<div class="alert alert-danger">{{ error }}</div>
+{% endif %}
+
+{% if msg %}
+<div class="alert alert-success">{{ msg }}</div>
+{% endif %}
+
+<h1>Text Based Disaster Detection</h1>
+<p class="lead">Simple web api/service to detect <span>Disaster Text</span></p>
+<form method='post' action='/api' class="form-group">
+<textarea id='tweet' placeholder='Write your text here ...' name='tweet' class="form-control">{% if tweet%}{{ tweet }}{% endif %}
+</textarea>
+<input type='submit' value='Detect' class="btn btn-primary">
+<button id='clearTweet' class="btn btn-danger" type="button">Clear</button>
+</form>
+</div>
+
+<script>
+    clearBtn = document.getElementById("clearTweet")
+    tweet = document.getElementById("tweet")
+    clearBtn.onclick = function(e){
+        e.preventDefault()
+        tweet.value = "";
+    }
+</script>
+</body>
+</html>
